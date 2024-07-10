@@ -1,0 +1,456 @@
+ ,VC_01_AT,ALMO alp oxen,"RR 11, Austrian Alps",Weiz (No: 617),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_02_AT,Almenland Stollenkäse (transl.: Almenland mining tunnel cheese),"RR 11, Austrian Alps",Weiz (No: 617),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_03_AT,Almenland Herbs,"RR 11, Austrian Alps",Weiz (No: 617),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_04_AT,Almenland Fish,"RR 11, Austrian Alps",Weiz (No: 617),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_05_AT,Almenland Honey,"RR 11, Austrian Alps",Weiz (No: 617),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_06_AT,Almenland Schnaps,"RR 11, Austrian Alps",Weiz (No: 617),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_07_AT,Holzwelt Murau (transl.: “World of wood“ Murau),"RR 11, Austrian Alps",Murau (No: 614),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_08_AT,Murauer Beer,"RR 11, Austrian Alps",Murau (No: 614),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_09_AT,Murauer Heumilch (transl.: hay milk),"RR 11, Austrian Alps",Murau (No: 614),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_10_AT,"Osttiroler Mountain Lamb (""Osttiroler Berglamm"")","RR 11, Austrian Alps",Lienz (No: 707 = NUTS3: AT 333),"LAU 1 not used in Austria – Scale therefore is „District“. In this case, district = NUTS3."
+AUSTRIA,VC_11_AT,"Murbodner Potatoes (""Murbodner Erdäpfel"")","RR 11, Austrian Alps",Murtal (No: 620),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_12_AT,Lungauer Eachtling,"RR 11, Austrian Alps",Tamsweg (No: 505 = NUTS 3: AT321: Lungau),"LAU 1 not used in Austria – Scale therefore is „District“. In this case, district = NUTS3."
+AUSTRIA,VC_13_AT,Mölltal-Glockner Lamm (engl. lamb),"RR 11, Austrian Alps",Spittal an der Drau (No: 206),"LAU 1 not used in Austria – Scale therefore is „District“. In this case, district = NUTS3."
+AUSTRIA,VC_14_AT,Murbodner Beef,"RR 11, Austrian Alps",Murtal (No: 620),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_15_AT,"Sheep farmers from Weiz (""Weizer Schafbauern"")","RR 11, Austrian Alps",Weiz (No: 617),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_16_AT,Kärntna Låxn,"RR 11, Austrian Alps",Spittal an der Drau (No: 206),"LAU 1 not used in Austria – Scale therefore is „District“. In this case, district = NUTS3."
+AUSTRIA,VC_17_AT,Ausseerland Seesaibling und Forelle (engl. artic char and trout from the Region Ausseerland),"RR 11, Austrian Alps",Liezen (No: 612 = NUTS3: AT 222),"LAU 1 not used in Austria – Scale therefore is „District“. In this case, district = NUTS3."
+AUSTRIA,VC_18_AT,"Murtaler pumpkin seed oil (""Kürbiskernöl"")","RR 11, Austrian Alps",Bruck-Mürzzuschlag (No: 621),LAU 1 not used in Austria – Scale therefore is „District“
+AUSTRIA,VC_19_AT,Bio vom Berg  (translated: Organic products from mountain areas),"RR 11, Austrian Alps",NUTS 2: AT 33,LAU 1 not used in Austria – for this VC NUTS 3
+AUSTRIA,VC_20_AT,Styria Beef,"RR 11, Austrian Alps",NUTS 2: AT 22 Steiermark,LAU 1 not used in Austria – for this VC NUTS 3
+AUSTRIA,VC_21_AT,"Wines of Kitzek im Sausal, South Styria",Kor Alps,,61019
+BULGARIA,VC_01_BG,WILD COLLECTED MEDICINAL PLANTS,Central Stara Planina (Balkan Mountains),Gabrovo Municipality in Gabrovo Province (BG322),GAB05
+BULGARIA,VC_02_BG,WILD COLLECTED MUSHROOMS,Western Stara Planina (Balkan Mountains),Stolichna Municipality in Sofia City Province (BG411),SOF46
+BULGARIA,VC_03_BG,WILD COLLECTED FOREST FRUITS,Western Stara Planina (Balkan Mountains),Stolichna Municipality in Sofia City Province (BG411),SOF46
+BULGARIA,VC_04_BG,HIGH NATURE VALUE (HNV) GRASSLANDS,Western Stara Planina (Balkan mountains),Chiprovtsi Municipality in Montana Province (BG312),MON36
+BULGARIA,VC_05_BG,"""CHIPROVITSI"" CARPETS",Western Stara Planina (Balkan mountains),Chiprovtsi Municipality in Montana Province (BG312),MON36
+BULGARIA,VC_06_BG,"""SIRENE"" CHEESE",Western Stara Planina (Balkan mountains),Chiprovtsi Municipality in Montana Province (BG312),MON36
+BULGARIA,VC_07_BG,"""LINBUL FARM"" (ONLINE SALES OF GRASS-FED BEEF)",Western Stara Planina (Balkan mountains),Berkovitsa Municipality in Montana Province (BG312),MON02
+BULGARIA,VC_08_BG,MOUNTAIN MILK,Western Stara Planina (Balkan Mountains),Godech Municipality in Sofia Province (BG412),SFO09
+BULGARIA,VC_09_BG,"""FOOD FROM THE MOUNTAIN"" FARMERS' ASSOCIATION",Western Stara Planina (Balkan mountains),Berkovitsa Municipality in Montana Province (BG312),MON02
+BULGARIA,VC_10_BG,ALL SEASON MOUNTAIN TOURISM (BANSKO RESORT),Pirin Mountains,Bansko Municipality in Blagoevgrad Province (BG413),BLG01
+BULGARIA,VC_11_BG,SKIING (BOROVETS),Rila Mountains,Samokov Municipality in Sofia Province (BG412),SFO39
+BULGARIA,VC_12_BG,"""MEADOWS IN THE MOUNTAINS"" FESTIVAL",Rhodope Mountains,Smolyan Municipality in Smolyan Province (BG424),SML31
+BULGARIA,VC_13_BG,"""ISKAR GORGE"" DAY TRIPS",Western Stara Planina (Balkan Mountains),Svoge Municipality in Sofia Province (BG412),SFO43
+BULGARIA,VC_14_BG,MOUNTAIN HEALTH / SPA TOURISM,Rhodope Mountains,Devlin Municipality in Smolyan Province (BG424),SML09
+BULGARIA,VC_15_BG,"""STRANDZHANSKI MANOV MED"" (STRANDZHA MANNA HONEY)",Strandzha Mountains,Tsarevo Municipality in Burgas Province (BG341),BGS13
+BULGARIA,VC_16_BG,ESSENTIAL OILS & COSMETICS,Central Stara Planina (Balkan Mountains),Karlovo Municipality in Plovdiv Province (BG421),PDV13
+BULGARIA,VC_17_BG,STRAWBERRIES & RASPBERRIES,Western Stara Planina (Balkan mountains),Berkovitsa Municipality in Montana Province (BG312),MON02
+BULGARIA,VC_18_BG,CERTIFIED TIMBER & WOOD PRODUCTS,Rhodope Mountains,Smolyan Municipality in Smolyan Province (BG424),SML31
+BULGARIA,VC_19_BG,HUNTING,Rhodope Mountains,Smolyan Municipality in Smolyan Province (BG424),SML31
+BULGARIA,VC_20_BG,CULINARY GUIDEBOOK TO THE EASTERN RHODOPES,Eastern Rhodope Mountains,Kardzhali Municipality in Kardzhali Province (BG425),KRZ16
+CZECH REPUBLIC,VC_01_CZ,Mineral water,Jeseniky mountains,LAU 1 Jeseník,CZ0711
+CZECH REPUBLIC,VC_02_CZ,High Quality Beef Production,Sumava - Cesky les,LAU 1 Klatovy,CZ0322
+CZECH REPUBLIC,VC_03_CZ,Cow - dairy products,Javorníky/Beskydy (Western Carpathian) mountains ,LAU 1 Vsetín,CZ0723
+CZECH REPUBLIC,VC_04_CZ,Goats - dairy products,Sumava - Cesky les,LAU 1 Prachatice,CZ0315
+CZECH REPUBLIC,VC_05_CZ,Sheep - dairy products,Sumava - Cesky les,LAU 1 Trutnov,CZ0525
+CZECH REPUBLIC,VC_06_CZ,Chicken,Sumava - Cesky les,LAU 1 Klatovy,CZ0322
+CZECH REPUBLIC,VC_07_CZ,Herbal tea,Jeseniky mountains,LAU 1 Jeseník,CZ0711
+CZECH REPUBLIC,VC_08_CZ,Marmelade,Sumava - Cesky les,LAU 1 Klatovy,CZ0322
+CZECH REPUBLIC,VC_09_CZ,Valašský frgál,Javorníky/Beskydy (Western Carpathian) mountains ,LAU 1 Vsetín,CZ0723
+CZECH REPUBLIC,VC_10_CZ,Herb liquers,Giant Mountains,LAU 1 Trutnov,CZ0525
+CZECH REPUBLIC,VC_11_CZ,Bee products,Sumava - Cesky les,LAU 1 Klatovy,CZ0322
+CZECH REPUBLIC,VC_12_CZ,Fruit spirit (hard liquer),Jeseniky mountains,LAU 1 Šumperk,CZ0715
+CZECH REPUBLIC,VC_13_CZ,Sheep wool,Sumava - Cesky les,LAU 1 Prachatice,CZ0315
+CZECH REPUBLIC,VC_14_CZ,Beer - local minibreweries,Sumava - Cesky les,LAU 1 Trutnov,CZ0525
+CZECH REPUBLIC,VC_15_CZ,Syrups,Sumava - Cesky les,LAU 1 Trutnov,CZ0525
+CZECH REPUBLIC,VC_16_CZ,Rosehip wine,Jeseniky mountains,LAU 1 Jeseník,CZ0711
+CZECH REPUBLIC,VC_17_CZ,Game meat selling to local consumers,Giant Mountains,LAU 1 Trutnov,CZ0525
+CZECH REPUBLIC,VC_18_CZ,Smoked meat and sausages,Sumava - Cesky les,LAU 1 Klatovy,CZ0322
+CZECH REPUBLIC,VC_19_CZ,Wood processing fo industry,Sumava - Cesky les,LAU 1 Klatovy,CZ0322
+CZECH REPUBLIC,VC_20_CZ,Wood for energy production,Sumava - Cesky les,LAU 1 Prachatice,CZ0315
+FRANCE_CCVD,VC_01_FR1,Diversification strategies of conventional agriculture in large irrigated field crops ,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_02_FR1,Extensive and pastoral livestock farming,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_03_FR1,"Market gardening, diversified with organic value chain and local channels distribution",Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_04_FR1,Clairette de Die - Wine production targeted towards export,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_05_FR1,"Organic, aromatic and medicinal plants",Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_06_FR1,Stone fruits: peach and abricot ,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_07_FR1,Picodon AOP,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_08_FR1,Fruits with pips ,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_09_FR1,Agriturism - turistic and pedagogic welcome in farms ,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_10_FR1,Organic still wine production,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_11_FR1,Garlic production ,Drome Valley,Drome departement,26125
+FRANCE_CCVD,VC_12_FR1,"Poultry farming, integration by the cooperative",Drome Valley,Drome departement,26125
+FRANCE_INRAE,VC_02_FR,Brocciu Corse PDO,Corsican moutains,Corsica ,N/A
+FRANCE_INRAE,VC_03_FR,On-farm processed cheeses based on pastoral breeding and sponteneous resources,Corsican moutains,Corsica,N/A
+FRANCE_INRAE,VC_04_FR,Dairy Cheese,Corsican moutains,Corsica,N/A
+FRANCE_INRAE,VC_05_FR ,PDO-Dry cured pork ,Corsican moutains,Corsica,N/A
+FRANCE_INRAE,VC_06_FR ,"Dry cold meats NON -PDO, Ficatelli, sausages and pieces ",Corsican moutains,Corsica,N/A
+FRANCE_INRAE,VC_07_FR,honey - Miels de Corse-Mele di Corsica - PDO,Corsican moutains,Corsica,N/A
+FRANCE_INRAE,VC_08_FR,Unedo arbutus honey-PDO,Corsican moutains,Corsica,N/A
+FRANCE_INRAE,VC_09_FR ,"""Corsican chestnut flour - Farina castagnina corsa""  PDO.",Corsican moutains,Corsica,N/A
+FRANCE_INRAE,VC_10_FR ,"Corsican aromatic plant : Immortelle de Corse - ""hélichrysum italicum ssp italicum""",Corsican moutains,Corsica,N/A
+FRANCE_INRAE,VC_11_FR,Corsican Milk Lamb,Corsican moutains,Corsica ,N/A
+FRANCE_INRAE,VC_12_FR,Corsican Milk Kid,Corsican moutains,Corsica ,N/A
+FRANCE_INRAE,VC_13_FR,Vitellu Corsu - Veau Corse,Corsican moutains,Corsica ,N/A
+FRANCE_INRAE,VC_14_FR,Pin Lariccio,Corsican moutains,Corsica ,N/A
+FRANCE_INRAE,VC_15_FR,Boar hunting,Corsican moutains,Corsica ,N/A
+FRANCE_INRAE,VC_18_FR,Mountain apple production,Corsican moutains,Celavu - Prunelli,N/A
+FRANCE_INRAE,VC_19_FR,Perivillage production - vegetable and fruit,Corsican moutains,île-rousse-Balagne,N/A
+FRANCE_INRAE,VC_20_FR,Huile d'olive de Corse - Oliu d'Alivu-PDO,Corsican moutains,île-rousse-Balagne,N/A
+FRANCE_INRAE,VC_21_FR,Firewood (Holm oak and white oak),Corsican moutains,Corsica ,N/A
+GREECE,VC_01_GR,"Production of  Graviera cheese (Gruyere) in the area Amari, on the western slopes of Psiloritis mountain. ",Psiloritis Mountain,Kalogerou Amari,LAU1 7303
+GREECE,VC_02_GR,Production of Dry Anthotyros on Dry Anthotyros on the Lassithi Plateau  ,Dikti mountain,Tzermiado,LAU1 7203
+GREECE,VC_03_GR,"Sheep and goat breeding for meat production in the area of Anogeia, in Psiloritis mountain. ",Psiloritis Mountain,Anogeia,LAU1 7405
+GREECE,VC_04_GR,"Production of traditional edible products from the mountainous area of Gergeri, Fortyna (Psiloritis mountain). ",Psiloritis Mountain,GERGERI,LΑU1 7104
+GREECE,VC_05_GR,"Activities connected to the production of wine in the PDO Peza zone, at eastern Crete.",GIOUCHTAS ,PEZA,LAU1 7102
+GREECE,VC_06_GR,Production of traditional distilled spirit drinks from grape pomance 40%-65% ABV,Psiloritis mountain,HAGIA VARVARA,LAU1 7104
+GREECE,VC_07_GR,Activities connected to PDO olive oil products of designated origin and geographical indication.,Psiloritis Mountain,MYLOPOTAMOS,LAU1 7305
+GREECE,VC_08_GR,"Activities related to carobs, carob products and by-products in the area of Selli, Rethymno. ",VRISSINAS,SELLI ΡΕΤΗΥΜΝΟ,LAU1 7301
+GREECE,VC_09_GR,"Aloe Vera is the  oldest known and the most applied medical plant worldwide. More recently Aloe Vera is cultivated and processed into a variety of byproducts in the region of Viannos, Dikti Mountain.",Dikti Mountains,VIANNOS,LAU1 7103
+GREECE,VC_10_GR,Activities based on chestnuts from the mountainous areas of the western most part of Crete. ,White Mountains,KISSAMOS,LAU1 7405
+GREECE,VC_11_GR,"Apicature activities in mountainous areas of Kissamos, Chania. ",White Mountains,KISSAMOS,LAU1 7405
+GREECE,VC_12_GR,"Activities based on the use of local soil and schist from Mount Psiloritis (Idi) 2,456 m in Margarite village.",PSILOREITIS MOUNTAIN,MARGARITES,LAU1 7305
+GREECE,VC_13_GR,"Dittany  grows widely and is cultivated in Embaros, Dicti mountain area.",Dikti Mountain,EMBAROS,LAU1 7103
+GREECE,VC_14_GR,"Prickly pear cactus is a perennial shrub that grows everywhere in the dry, rocky terrain of Dicti and in the region of Viannos. ",Dikti Mountain,VIANNOS,LAU1 7103
+GREECE,VC_15_GR,"Kozani Red saffron, ingredient of other products, cultivated and processed by a local cooperative.",Vourinos Mountain,KOZANI,LAU1 1401
+GREECE,VC_16_GR,Florina peppers are a specialty produce  grown in villages in West Macedonia Greece.,Voras mountain,Agios Panteleimonas,LAU1 1702
+GREECE,VC_17_GR,"Activities connected to legumes, traditinally cultivated in Feneos area in the Peloponnese.",HELMOS / KILLINI (ZIRIA),KORINTHIA,LAU1 4206
+GREECE,VC_18_GR,"Activities based on apple production in Mount Pelium and especially from Zagora area, Thessaly",Pelium Mountain,EL613,LAU1 2403
+GREECE,VC_19_GR,"Epirus Feta is PDO cheese made of sheep and goat milk in the Epirus region, Ammotopos Arta. ",Xerovouni/ PINDOS MOUNBTAIN RANGE,Ammotopos,LAU1 1901
+GREECE,VC_20_GR,Activites for the production and handling of PGI potatoes. ,"Mountains Orvilos, Vrontou and Falakro",KATO NEVROKOPI ,LAU1 0203
+GREECE,VC_21_GR,Processing of milk and wheat for the production of traditional frumenty in the mountainous area of Anogeia ,Psiloritis Mountain,Anogeia,LAU1 7405
+HUNGARY,VC_01_HU,Cold mountain shelter – Knowledge economy,Transdanubian Mountains,Barnag,15778
+HUNGARY,VC_02_HU,Gastro village – Köveskál ‘Eat the View’,Transdanubian mountains,Köveskál,25858
+HUNGARY,VC_03_HU,Nivegy-valley small family wineries,Transdanubian mountains,Szentantalfa,3568
+HUNGARY,VC_04_HU,Pumpkin seed products in Boldva,Northern Medium Mountains,Boldva,8396
+HUNGARY,VC_05_HU,"Trizs, the fruitful village",Northern Medium Mountains,Trizs,4914
+HUNGARY,VC_06_HU,"Orfű mills, bakery and visitor centre products",Mecsek Mountain,Orfű,11730
+HUNGARY,VC_07_HU,Biscuits and chocolate from Pannonhalma ,Transdanubian mountains,Pannonhalma,24305
+HUNGARY,VC_08_HU,"Cosmetics, health products and herbal tea in Pannonhalma",Transdanubian mountains,Pannonhalma,24305
+HUNGARY,VC_09_HU,Traditional potato from Olaszfalu,Transdanubian mountains,Olaszfalu,26514
+HUNGARY,VC_10_HU,Traditional cabbeges from Olaszfalu,Transdanubian mountains,Olaszfalu,26514
+HUNGARY,VC_11_HU,"Logging, timber production, afforestation, maintenance, leasure, sport",Transdanubian mountains,Zirc,26499
+HUNGARY,VC_12_HU,Forest adventure experience in Csesznek,Transdanubian mountains,Csesznek,24642
+HUNGARY,VC_13_HU,Skiing and downhill cycling in Eplény,Transdanubian mountains,Eplény,33941
+HUNGARY,VC_14_HU,Honey from the Bakony mountains,Transdanubian mountains,Olaszfalu,26514
+HUNGARY,VC_15_HU,Organic garlic from Olaszfalu,Transdanubian mountains,Olaszfalu,26514
+HUNGARY,VC_16_HU,Organic farming and wine production in Vadna,Northern Medium Mountains,Vadna,7223
+HUNGARY,VC_17_HU,Pasta from Múcsony - a social economy project,Northern Medium Mountains,Múcsony,21546
+HUNGARY,VC_18_HU,Ecological garden in Pallagvölgy - a joint enterprise,Börzsöny Mountain,Kóspallag,24679
+HUNGARY,VC_19_HU,The tastes of Monostor,Börzsöny Mountain,Kismaros,33738
+HUNGARY,VC_20_HU,Ranger - truffle hunting ,Transdanubian mountains,Barnag,15778
+HUNGARY,VC_21_HU,Living Countryhouse - farm museum,Börzsöny Mountain,Kóspallag,24679
+HUNGARY,VC_22_HU,Sustainable local food system project - Kóspallag,Börzsöny Mountain,Kóspallag,24679
+HUNGARY,VC_23_HU,Nivegy-valley artisan chese makers,Transdanubian mountains,Szentantalfa,3568
+ITALY_UNIMOL & UNIPI,VC_01_IT,DOP hard cheese  ,Northern Apennines - Tuscan-Emilian Apennines ,Palanzano,34026
+ITALY_UNIMOL & UNIPI,VC_02_IT,Chestnut flour coming from the rediscovered chesnut cultivation activities in the area,Apuan Alps,Stazzema,46030
+ITALY_UNIMOL & UNIPI,VC_03_IT,DOP Honey and other bee products ,Apuan Alps,Mulazzo,45012
+ITALY_UNIMOL & UNIPI,VC_04_IT,Cultivation and processing of organic apple on abandoned lands.,Central Appennines – Molise,Castel del Giudice,94009
+ITALY_UNIMOL & UNIPI,VC_05_IT,"Di Nucci renews the tradition of cheese production, supporting breeders and sustainable livestock.",Central Appennines – Molise,Agnone,94002
+ITALY_UNIMOL & UNIPI,VC_06_IT,Through a ICT solution is established an interactive costumers participation in farm production.,Central Appennines – Molise,Macchiagodena,94026
+ITALY_UNIMOL & UNIPI,VC_07_IT,"a chocolate praline with a dark shell filled with potato cream (""Cioccoderra"")",Altopiano di Buddusò,Buddusò,90017
+ITALY_UNIMOL & UNIPI,VC_08_IT,"This cooperative produces traditional cheeses, mainly for export, using only local sheep's milk.",Sardinia Mountains,Pattada,90055
+ITALY_UNIMOL & UNIPI,VC_11_IT,This farm grows and commercializes herbs and with garlic produced mountain area.,Southern Apennines - Basilicata,Bella,76012
+ITALY_UNIMOL & UNIPI,VC_12_IT,"This farm grows, processes and sells a local variety of pepper (peperone crusco).",Southern Apennines - Basilicata,Senise,76085
+ITALY_UNIMOL & UNIPI,VC_13_IT,This farm produces high quality certified milk and cheese in a mountain nature park. ,Central Apennines - Marche,Amandola,109002
+ITALY_UNIMOL & UNIPI,VC_14_IT,"The beekeeper produces organic honeys, honey aged in barrels and mead (fermented honey drink).",Central Apennines - Marche,Fabriano,42017
+ITALY_UNIMOL & UNIPI,VC_15_IT,Growing of organic chestnuts and processing of chestnuts (e.g. flour) by a historical family farm.,Southern Apennines - Calabria,Petilia Policastro,101017
+ITALY_UNIMOL & UNIPI,VC_16_IT,A small family dairy that became an important cheese industry that offers also PDO products.,Sicilia mountains,Zafferana Etnea,87055
+ITALY_UNIMOL & UNIPI,VC_17_IT,Beekeeping and the ‘Amatrice honey’ certified.,Central Apennines – Lazio region,Amatrice,57002
+ITALY_UNIMOL & UNIPI,VC_18_IT,The rural butchery,Northern Apennines - Tuscan–Emilian Apennines,Sambuca Pistoiese ,47018
+ITALY_UNIMOL & UNIPI,VC_21_IT,Pontepietra is a small organic farm that cultivates medicinal and aromatic herbs and practices the collection of wild herbs.,Northern Apennines - Tuscan–Emilian Apennines,Anghiari,51001
+ITALY_UNIMOL & UNIPI,VC_22_IT,Old varieties of potatos (Walser Kartoffeln),Euroregion Alps-Mediterranean,Gressoney,7033
+ITALY_UNIMOL & UNIPI,VC_24_IT,Colli Piacentini,0,TRAVO,33043
+ITALY_UNIMOL & UNIPI,VC_25_IT,Bio- Bakery,Euroregion Alps-Mediterranean,Saint-Pierre,7063
+ITALY_UNIMOL & UNIPI,VC_27_IT,The farm sustainably produces apple and derived alcoholic beverages (cider).,Alps-Mediterranean,Villeneuve,7074
+ITALY_UNIMOL & UNIPI,VC_28_IT,services,Northern Apennines - Tuscan-Emilian Apennines ,Tizzano Val Parma,34039
+ITALY_UNIMOL & UNIPI,VC_31_IT,Different varieties of potatos produce under  specific rules,Northern Apennines - Tuscan-Emilian Apennines ,Montese,36026
+ITALY_UNIMOL & UNIPI,VC_32_IT,"Different varieties of hazel nuts ( Mortarella, San giovanni, Camponica, Giffoni)",Southern Apennines - Campania,Pietrastornina,64073
+ITALY_UNIMOL & UNIPI,VC_35_IT,'Di Iorio' is a old (by 1750) artisanal confectionery in Southern Italy specialized in nougat production.,Southern Apennines - Campanian Apennines,Pietradefusi,64072
+ITALY_UNIMOL & UNIPI,VC_36_IT,Caciocavallo cheese form southern Dauni mountains ,Southern Appennines,Monteleone di Puglia,71032
+ITALY_UNIMOL & UNIPI,VC_39_IT,apples and derivatives and other agricoltural products,Eastern Alps -        Julian Alps,Pulfero,30086
+ITALY_UNIMOL & UNIPI,VC_43_IT,A cooperative dairy of local farmers enhancing local traditional cheese production.,Eastern Alps -        Julian Alps,Malborghetto Valbruna,30054
+ITALY_UNIMOL & UNIPI,VC_44_IT,Processed pork meat,Cottian Alps,Rossana,4197
+ITALY_UNIMOL & UNIPI,VC_46_IT,Dairy industry,Eastern Alps,Bolzano,21008
+ITALY_UNIMOL & UNIPI,VC_47_IT,organic eggs,Cottian Alps,Dronero,4082
+ITALY_UNIMOL & UNIPI,VC_48_IT,"With a open-air grazing in a regional natural park, it is produced and processed high-quality milk.",Eastern Alps - Vicentine Alps,Bosco Chiesanuova,23011
+ITALY_UNIMOL & UNIPI,VC_50_IT,The production is about particular cow cheeses and butter,Southern Alps -   Brescia Prealps,Vobarno,17204
+ITALY_UNIMOL & UNIPI,VC_52_IT,"Bovine meat of race Limousine and flour from corn ""ottofile""",Northern Apennines,Santa Margherita di Staffora,18142
+ITALY_UNIMOL & UNIPI,VC_53_IT,"Honey, including millefiori of alpine flora, and jams ",Southern Alps -   Brescia Prealps,Muscoline,17116
+ITALY_UNIMOL & UNIPI,VC_54_IT,"A red corn flour called “melga dei bobè""",Southern Alps -   Brescia Prealps,Ceto,17050
+GERMANY_VINIDEA,VC_01_DE,"Wines of Winningen, Mosel Valley ",Rhenish Massif,Winningen,7137230
+France_VINIDEA,VC_01_FR,Savoi- the Reconquest of the winemakers,Rhône-Alpes,Jongieux,73140
+SLOVENIA_VINIDEA,VC_01_SL,Vipava valley orange wines ,Karst Plateau,Ajdovščina,SI 001
+ITALY_VINIDEA,VC_23_IT,"Alto Trentino, organic wine production for premium wines",Eastern Alps,Trento,22205
+ITALY_VINIDEA,VC_26_IT,Wine & Tourism 1,Western Alps,Morgex,7044
+ITALY_VINIDEA,VC_29_IT,"Island Wine from Lipari, Aeolian Islands",Aeolian Islands,Lipari,83041
+ITALY_VINIDEA,VC_30_IT,"Volcanic Wine (Sicily-Etna)
+",0,CASTIGLIONE DI SICILIA,87014
+ITALY_VINIDEA,VC_33_IT,"""Wine & Tourism 2"" (Liguria-5Terre)",0,RIOMAGGIORE,11024
+ITALY_VINIDEA,VC_34_IT,Grapevine on terraces- Valtellina,Central Eastern Alps,Castione Andevenno,14015
+ITALY_VINIDEA,VC_37_IT,Central Appenninian (Abruzzo),0,OFENA,66060
+ITALY_VINIDEA,VC_40_IT,PEFC certified wood from collective forests management,Eastern Alps,Ampezzo and Sauris  (2 adjacent municipalities),030003 and 030107 (2 municipalities)
+ITALY_VINIDEA,VC_42_IT,La Cattedra- Commons farming for social and educational purposes-  Asiago Plateau,Central Alps ,Roana,24085
+ITALY_VINIDEA,VC_45_IT,Biodistretto Val di Vara (Organic district in Val di Vara) ,Central Alps ,Varese Ligure,11029
+NMK,VC_01_NMK,Juniper essential oil (North Macedonia) ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_02_NMK,Honey in Maleshevija (North Macedonia) ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_03_NMK,Mushrooms - NTFP  ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_04_NMK,Berries - NTFP  ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_05_NMK,Medicinal herbs  - NTFP ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_06_NMK,Tea herbs  - NTFP ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_07_NMK,Plumbs  - NTFP  ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_08_NMK,Potatos ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_09_NMK,Cheese (North Macedonia) ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_10_NMK,Round wood for processing,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_11_NMK,Firewood for households,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_12_NMK,Lamb meat,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_13_NMK,Hunting ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_14_NMK,Rural tourism in Maleshevija (North Macedonia) - Mountain related tourism ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_15_NMK,Forestry seed and  seedlings ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_16_NMK,Kozhuvchanka - Drinking water produced from a spring in a Kozhuv Mountain ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_17_NMK,Oriental tobacco  ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_18_NMK,Wine - Vranec ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_19_NMK,Bee families in North Macedonia ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_20_NMK,Propolis (bee glue) ,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_21_NMK,"Honey, fruits - honey with dried fruits of plum, apricot and fig",Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_22_NMK,"Royal Jelly - Mixture of royal jelly, bee glue, polen and honey ",Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+NMK,VC_23_NMK,Pine cones - Dry pine cones with purpose of decoration.,Mountain Meleshevija ,Berovo;Pehčevo,MK00201;MK00208;
+PORTUGAL_ESTRELA,VC_01_PT,DO Douro Wine - Douro Superior - Vila Nova de Foz Côa,Iberian Mountains; Massif Hespérico (Central Iberian Zone),(LAU1) 091419 - Vila Nova de Foz Côa,91419
+PORTUGAL_ESTRELA,VC_01_PT2,Mineral Water from almost virgin natural spring at 1400 m altitude.,Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_02_PT2,Traditional sheep's milk cheese.,Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_03_PT2,Traditional sheep's milk cottage cheese.,Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_04_PT2,Lamb meat from an autochthonous sheep breed.,Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_05_PT2,Goatling meat.,Cordilheira Central (RR08),Seia,912
+PORTUGAL_ESTRELA,VC_06_PT2,"Such as Alheira, Chouriça de Carne, Farinheira, Linguiça, Morcela, Paio and Paiola.",Cordilheira Central (RR08),Seia,912
+PORTUGAL_ESTRELA,VC_07_PT2,Rye Bread made from cereals grown at the mountain.,Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_08_PT2,High mountain honey from heatherlands.,Cordilheira Central (RR08),Seia,912
+PORTUGAL_ESTRELA,VC_09_PT2,Chestnut (seed) from chestnut groves at mountain hillsides and surroundings.,Cordilheira Central (RR08),Seia,912
+PORTUGAL_ESTRELA,VC_10_PT2,Local bean variety from Manteigas municipality.,Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_11_PT2,"Wine from Serra da Estrela, one of the subregions of Dão Demarcated Region.",Cordilheira Central (RR08),Seia,912
+PORTUGAL_ESTRELA,VC_12_PT2,Brandy made from Juniperus communis from Serra da Estrela.,Cordilheira Central (RR08),Covilhã,503
+PORTUGAL_ESTRELA,VC_13_PT2,Liqueur from Sambucus nigra flower from Serra da Estrela. ,Cordilheira Central (RR08),Covilhã,503
+PORTUGAL_ESTRELA,VC_14_PT2,Arbutus unedo tree fruit from mountain hillsides and surroundings.,Cordilheira Central (RR08),Seia,912
+PORTUGAL_ESTRELA,VC_15_PT2,Liqueur made from sour cherry from Serra da Estrela.,Cordilheira Central (RR08),Covilhã,503
+PORTUGAL_ESTRELA,VC_16_PT2,Wool Products from Bordaleira Serra da Estrela autochthonous sheep breed.,Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_17_PT2,"Products made from Burel, a specific wool fabric.",Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_18_PT2,Tourism based on thermal water from thermal srings at Serra da Estrela.,Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_19_PT2,"Such as Hiking, Mountain Biking, Birdwatching and Fishing.",Cordilheira Central (RR08),Manteigas,908
+PORTUGAL_ESTRELA,VC_20_PT2,Energy production from Hydroelectric Power Plants at Serra da Estrela.,Cordilheira Central (RR08),Manteigas,908
+ROMANIA,VC_01_RO,MOUNTAIN HONEY,Southern Romanian Carpathian Mountains,Bunești commune in Braşov County (RO122),40704
+ROMANIA,VC_02_RO,THERAPEUTIC BEE PRODUCTS (PROPOLIS & POLLEN),Southern Romanian Carpathian Mountains,Oraş Brezoi in Vâlcea County (RO415),167794
+ROMANIA,VC_03_RO,CERTIFIED ECOTOURISM,Southern Romanian Carpathian Mountains,Moeciu commune in Braşov County (RO122),41471
+ROMANIA,VC_04_RO,FIREWOOD FOR HEATING & COOKING,Southern Romanian Carpathian Mountains,Moeciu  commune in Braşov County (RO122),41471
+ROMANIA,VC_05_RO,VIDRA LAKE & LOTRU-CIUNGET HYDROELECTRIC POWER STATION,Southern Romanian Carpathian Mountains,Malaia commune in Vâlcea County (RO415),171021
+ROMANIA,VC_06_RO,FORESTS WITH SPECIAL PROTECTION FUNCTION,Southern Romanian Carpathian Mountains,Braşov county ,NUTS3 RO122
+ROMANIA,VC_07_RO,HIGH NATURE VALUE (HNV) GRASSLANDS,Southern Romanian Carpathian Mountains,Braşov county ,NUTS3 RO122
+ROMANIA,VC_08_RO,LIVE SHEEP & LAMBS FOR SLAUGHTER,Southern Romanian Carpathian Mountains,Caţa commune in Braşov County (RO122),40768
+ROMANIA,VC_09_RO,ECO-FERTILISER (WOOL PELLETS),Southern Romanian Carpathian Mountains,Sura Mica commune in Sibiu County (RO126),145792
+ROMANIA,VC_10_RO,"""TELEMEA""",Southern Romanian Carpathian Mountains,Vaideeni commune in Vâlcea County (RO415),174021
+ROMANIA,VC_11_RO,"""BRÂNZĂ DE BURDUF""",Southern Romanian Carpathian Mountains,Vaideeni commune in Vâlcea County (RO415),174021
+ROMANIA,VC_12_RO,"""MOZZARELLA""",Southern Romanian Carpathian Mountains,Oraş Rupea in Braşov county (RO122),40394
+ROMANIA,VC_13_RO,"""BRĂNZĂ HOREZU""",Southern Romanian Carpathian Mountains,Oraş Horezu commune in Vâlcea County (RO415),168041
+ROMANIA,VC_14_RO,"""PASTRAMA DE OAIE""",Southern Romanian Carpathian Mountains,Oraş Novaci in Gorj County (RO412),78258
+ROMANIA,VC_15_RO,"""SALAM MONTAN ANGUS""",Southern Romanian Carpathian Mountains,Schela commune in Gorj County (RO412),81987
+ROMANIA,VC_16_RO,HOREZU' CERAMICS,Southern Romanian Carpathian Mountains,Oraş Horezu in Vâlcea County (RO415),168041
+ROMANIA,VC_17_RO,"""DULCEAȚĂ""",Southern Romanian Carpathian Mountains,Valea Doftanei commune in Prahova County (RO316),136107
+ROMANIA,VC_18_RO,"""GASTRO LOCAL""",Southern Romanian Carpathian Mountains,Vama Buzăului commune in Braşov county (RO122) ,42183
+ROMANIA,VC_19_RO,ALL SEASON MOUNTAIN TOURISM,Southern Romanian Carpathian Mountains,Bran commune in Braşov county (RO122),40633
+ROMANIA,VC_20_RO,FARMED & PROCESSED MOUNTAIN TROUT,Southern Romanian Carpathian Mountains,Oraş Busteni in Prahova County (RO316),131210
+SCOTLAND_HUTTON,VC_01_UK,Highland Spring and Tesco Perthshire Mineral water is based on extracting groundwater from hills.,Highlands & Islands (RR9); Eastern Scotland (NUTS2),Perth and Kinross,S30000010
+SCOTLAND_HUTTON,VC_02_UK,Mountain region hard white cows milk cheese with PGI from Caerphillly LAU1 region within Wales.,West Wales (NUTS 2),Caerphilly,W06000018
+SCOTLAND_HUTTON,VC_03_UK,Scottish Heather honey- heather that is marketed as produced from heather moorland. ,Highlands & Islands (RR9); Eastern Scotland (NUTS2),Perth and Kinross,S30000010
+SCOTLAND_HUTTON,VC_04_UK,Sporting game - organised hunting of deer in Perth and Kinross LAU1,Highlands & Islands (RR9); Eastern Scotland (NUTS2),Perth and Kinross,S30000010
+SCOTLAND_HUTTON,VC_06_UK,Fly fishing of wild salmon in rivers of Badenoch and Strathspey LAU1,Highlands & Islands (RR9); Highlands and Islands (NUTS2),Badenoch and Strathspey,S30000031
+SCOTLAND_HUTTON,VC_07_UK,Government investment allows restoration for biodiversity and investment in C sequestration. ,Highlands & Islands (RR9); Highlands and Islands (NUTS2),Ross and Cromarty,S30000028
+SCOTLAND_HUTTON,VC_08_UK,Rewilding (Nature Restoration) in Inverness and Nairn LAU1,Highlands & Islands (RR9); Highlands and Islands (NUTS2),Inverness and Nairn,S30000030
+SCOTLAND_HUTTON,VC_10_UK,Forestry - on edges / shoulders of UK mountains -Argyll and Bute LAU1,Highlands & Islands (RR9); Highlands and Islands (NUTS2),Argyll and Bute Mainland,S30000036
+SCOTLAND_HUTTON,VC_11_UK,Scotch beef (PGI marked) from upland livestock farms in Skye and Lochalsh (LAU1),Highlands & Islands (RR9); Highlands and Islands (NUTS2),Skye and Lochalsh,S30000038
+SCOTLAND_HUTTON,VC_12_UK,Welsh Lamb with PGI status (Powys (Wales)),East Wales (NUTS 2),Powys,W06000023
+SCOTLAND_HUTTON,VC_13_UK,"Artisnal/bespoke timber products such as furniture, toys, jewellery (Ross and Cromarty LAU1)",Highlands & Islands (RR9); Highlands and Islands (NUTS2),Ross and Cromarty,S30000028
+SCOTLAND_HUTTON,VC_14_UK,Highland cows - bred for genes and cultural status not necessarily for meat/dairy- Lochaber,Highlands & Islands (RR9); Highlands and Islands (NUTS2),Lochaber,S30000037
+SCOTLAND_HUTTON,VC_15_UK,Jewellery made from heather (Perth and Kinross LAU1),Highlands & Islands (RR9); Eastern Scotland (NUTS2),Perth and Kinross,S30000010
+SCOTLAND_HUTTON,VC_16_UK,Mountain wool for Harris tweed - Western Isles (LAU1),Highlands & Islands (RR9); Highlands and Islands (NUTS2),Na h-Eileanan Siar,S30000039
+SCOTLAND_HUTTON,VC_17_UK,Hydropower - upland river lakes for renewable energy through pumped storage (Electric mountain),West Wales (NUTS2),Gwynedd,W06000002
+SCOTLAND_HUTTON,VC_18_UK,wind energy - turbines in upland areas such as Neath and Port Talbot,West Wales (NUTS 2),Neath Port Talbot,W06000012
+SCOTLAND_HUTTON,VC_19_UK,"Scotch whisky (PDO) which rely on clean water, peat and barley. Also an important tourist attraction.",Highlands & Islands (RR9); Highlands and Islands (NUTS2),Badenoch and Strathspey,S30000031
+SCOTLAND_HUTTON,VC_20_UK,Adventure experience days based on landscape features associated with mountains,Cumbria (NUTS2),South Lakeland,E07000031
+SCOTLAND_HUTTON,VC_21_UK,Independent and guided visits motivated by visiting wild places and seeing wildlife,Highlands & Islands (RR9); Highlands and Islands (NUTS2),Caithness and Sutherland,S30000029
+SCOTLAND_HUTTON,VC_22_UK,Climbing or walking of popular/accesible peaks ,Highlands & Islands (RR9); West Central Scotland (NUTS2),Helensburgh and Lomond,S30000013
+SCOTLAND_HUTTON,VC_23_UK,Winter sports (downhill sking and snowboarding) within the Lecht ski resort - reliant on landscape for the slope and snow for skiing. Uses a wind power to run tehir snow making factory to supplement their natural snow cover. Use of the area in summer as a result of the winter sports is also of interest. The Lecht ski resort lies within Aberdeenshire LAU1.,Highlands & Islands (RR9); North Eastern Scotland (NUTS2),Aberdeenshire,S30000027
+SCOTLAND_HUTTON,VC_25_UK,Venison - Farmed and wild deer - Lochaber LAU1,Highlands & Islands (RR9); Highlands and Islands (NUTS2),Lochaber,S30000037
+SCOTLAND_HUTTON,VC_26_UK,Spirits (Gin) in Gwynedd LAU1 within Wales,West Wales (NUTS 2),Gwynedd,W06000002
+SCOTLAND_HUTTON,VC_27_UK,"Beeswax products including soap, candles, skincare and food wraps (Blaenau Gwent)",West Wales (NUTS 2),Blaenau Gwent,W06000019
+SCOTLAND_HUTTON,VC_28_UK,"Breakfast puddings (e.g. Haggis, black pudding, white pudding) (Eilean Siar/ Western Isles LAU1)",Highlands & Islands (RR9); Highlands and Islands (NUTS2),Na h-Eileanan Siar,S30000039
+SERBIA, VC_06_SER,Vaccinium Myrtillus from National Park Kopaonik. Wild blue berry picking and processing.,"Kopaonik Mountain/ National park, Dinaric Alps region","Dinaric Mountains, mountain Kopaonik",70343 Brus
+SERBIA, VC_09_SER,Vlasina honey PDO,"Eastern Serbia, Balkan mountains region",Balkan mountains,71137
+SERBIA, VC_10_SER,Pirot  hard  cheese from sheep and cow milk,"Eastern Serbia, Balkan mountains region",Balkan mountains,70939 Pirot
+SERBIA, VC_14_SER,"Raspberries produced in the area of Arilje region (western Serbia), PDO. ","Western Serbia, Dinaric Alps region","Dinarid mountains, mountain Kukutnica",70041 Аrilje
+SERBIA, VC_15_SER,"In Eastern Serbia/Mountain Rtanj, herb tea - Saturejea Montana","Eastern Serbia, Carpathian Mountains",Rtanj Mountain,71129 Sokobanja
+SERBIA, VC_25_SER,Wool handmade carpets with traditional motives,"Eastern Serbia, Balkan mountains region",Balkan mountains,70939 Pirot
+SERBIA, VC_27_SER,"Dried saussage made of localy produced sheep, goat, beef or donkey meat mixture, PDO application","Eastern Serbia, Balkan mountains region",Balkan mountains,70939 Pirot
+SERBIA,VC_01_SER,"Fresh lamb meat, PDO (whole animals), produced from Sjenica sheep - local autochthonous sheep breed","Western Serbia, Dinaric Alps region",Pester Highlands (plateau),71072 Sjenica
+SERBIA,VC_02_SER,Dried halves of sheep - deboned and slowly dried combining cold winds of the area and smoke,"Western Serbia, Dinaric Alps region",Pester Highlands (plateau),71072 Sjenica
+SERBIA,VC_03_SER,"Full fat cheese in brine made out of cow milk, matured for one month","Western Serbia, Dinaric Alps region",Zlatar Mountain,70866 Nova Varos
+SERBIA,VC_04_SER,"Potatoes grown in high altitudes, known by their quality","Western Serbia, Dinaric Alps region",Ivanjica,70564 Ivanjica
+SERBIA,VC_05_SER,Buckwheat is produced in the mountain areas in organic and conventional production,"Western Serbia, Dinaric Alps region",Zlatar Mountain,70866 Nova Varos
+SERBIA,VC_07_SER,Trout fish produced in clear and fresh water ponds,"Western Serbia, Dinaric Alps region","Dinarid mountains, mountain Tara",71072 Sjenica
+SERBIA,VC_08_SER,Tourism /one of the main activities in mountain regions; Zlatibor mountain as one VC ,"Western Serbia, Dinaric Alps region",Zlatibor mountain,71234 Čajetina
+SERBIA,VC_11_SER,"White cheese in brine, produced of mixed milk - cow and sheep milk","Eastern Serbia - Stara planina (Old mountain) / Rodophy mountains, ",Old Mountain (Stara planina),70939 Pirot
+SERBIA,VC_12_SER,Donkey milk as healthy product for boosting their immune system; combined with rural tourism,"Eastern Serbia - Stara planina (Old mountain) / Rodophy mountains, ",Old Mountain (Stara planina),70505 Dimitrovgrad
+SERBIA,VC_17_SER,"Berries cultivated in Kopaonik Mountain/ National park, Dinaric Alps region; other mountain areas","Kopaonik Mountain, Western Serbia, Dinaric Alps region","Dinarid mountains, mountain Kopaonik.",70343 Brus
+SERBIA,VC_18_SER,Wild mushrooms collected in the mountainous area of Kopaonik mountain.,"Kopaonik Mountain, Western Serbia, Dinaric Alps region",N/A,70343 Brus
+SERBIA,VC_20_SER,"Beef fresh meat (whole animals), dry meat part of the same VCs (on-farm or small processing units)","Western Serbia, Dinaric Alps region",Pester Highlands (plateau),71072 Sjenica
+SERBIA,VC_21_SER,"Main objecitves - sustainability, responsible travel and interaction with local people and culture","Eastern Serbia - Stara planina (Old mountain) / Rodophy mountains, ",Old Mountain (Stara planina),70939 Pirot
+SKANDINAVIAN_UCO,VC_01_SCA,Artisanal beer from Stjordal,Scandinavean Mountains - Scandes,Stjørdal,1714
+SKANDINAVIAN_UCO,VC_02_SCA,PGI (Protected Geographical Indication) Cider from Hardanger,Scandinavean Mountains - Scandes,Ullensvang,1231
+SKANDINAVIAN_UCO,VC_03_SCA,Sami reindeer herding,Scandinavean Mountains - Scandes,Guovdageaidnu - Kautokeino,NO2011
+SKANDINAVIAN_UCO,VC_04_SCA,Meat products (dry and cured meat),Scandinavean Mountains - Scandes,Oppdal,1634
+SKANDINAVIAN_UCO,VC_05_SCA,Free ranged animals,Scandinavean Mountains - Scandes,Vang,545
+SKANDINAVIAN_UCO,VC_06_SCA,Organic primitive grain muesli,Scandinavean Mountains - Scandes,Selbu ,1664
+SKANDINAVIAN_UCO,VC_07_SCA,Barley flour and groats,Scandinavean Mountains - Scandes,Tynset,437
+SKANDINAVIAN_UCO,VC_08_SCA,Pultost cow cheese,Scandinavean Mountains - Scandes,Lesja,512
+SKANDINAVIAN_UCO,VC_09_SCA,PGI (Protected Geographical Indication) Goat cheese / Undredal Brown Cheese,Scandinavean Mountains - Scandes,Aurland ,1421
+SKANDINAVIAN_UCO,VC_10_SCA,Organic milk,Scandinavean Mountains - Scandes,Nore og Uvdal ,633
+SKANDINAVIAN_UCO,VC_11_SCA,Fish farming - PDO (Protected Designation of Origin) Rakfish from Valdres,Scandinavean Mountains - Scandes,Nord-Aurdal,542
+SKANDINAVIAN_UCO,VC_12_SCA,Fly fishing in Hemsedal,Scandinavean Mountains - Scandes,Hemsedal,618
+SKANDINAVIAN_UCO,VC_13_SCA,Unsprayed berries,Scandinavean Mountains - Scandes,Stjørdal,1714
+SKANDINAVIAN_UCO,VC_14_SCA,Organic and demeter certified juices,Scandinavean Mountains - Scandes, Notodden,807
+SKANDINAVIAN_UCO,VC_15_SCA,Organic and demeter certified herbs,Scandinavean Mountains - Scandes,Lom,514
+SKANDINAVIAN_UCO,VC_16_SCA,Nature-based Tourism,Scandinavean Mountains - Scandes,Trysil,428
+SKANDINAVIAN_UCO,VC_17_SCA,Sami Turism Destinations,Scandinavean Mountains - Scandes,Guovdageaidnu - Kautokeino,NO2011
+SKANDINAVIAN_UCO,VC_18_SCA,Sami Handicraft - Duodji,Scandinavean Mountains - Scandes,Guovdageaidnu - Kautokeino,NO2011
+SKANDINAVIAN_UCO,VC_19_SCA,"Family owned forestry
+",Scandinavean mountains - Lapland,Rovaniemi,FI698
+SKANDINAVIAN_UCO,VC_20_SCA,Organic Farming,Scandinavean Mountains - Scandes,Aurland,1421
+SLOVAKIA,VC_01_SK,The labelled traditional cheese products from sheep or from a mixture of sheep and cow milk.,Slovak Carpathians,Zázrivá,510211
+SLOVAKIA,VC_02_SK,"Milk production with label ""mountain milk"" according to EU regulations ",Slovak Carpathians,Važec,511129
+SLOVAKIA,VC_03_SK,Lamb meat production - focusing on local consumers instead of export ,Slovak Carpathians,Dlhé Stráže,526452
+SLOVAKIA,VC_04_SK,Sheep's wool processing helps maintain traditional sheep farming in Slovakia; the sheep wool products include home textile products and clothes.,Slovak Carpathians,Banská Štiavnica,516643
+SLOVAKIA,VC_05_SK,Beef cattle breeding in mountains,Slovak Carpathians,Važec,511129
+SLOVAKIA,VC_06_SK,Family farms with both production and recreational possibilities for visitors,Slovak Carpathians,Kremnické bane,516988
+SLOVAKIA,VC_07_SK,Organic production and packaging of medicinal herbs in mountains,Slovak Carpathians,Plavnica,526967
+SLOVAKIA,VC_08_SK,Small scale production of high quality oils for eating and cosmetic purposes,Slovak Carpathians,Hozelec,523496
+SLOVAKIA,VC_09_SK,Horse breeding in mountain areas,Slovak Carpathians,Polichno,511757
+SLOVAKIA,VC_10_SK,Timber production in Slovak mountain forests,Slovak Carpathians,Liptovský Ján,510734
+SLOVAKIA,VC_11_SK,Processed timber (saw mils and wood products) from domestic production,Slovak Carpathians,Makov,509299
+SLOVAKIA,VC_12_SK,"Wood from Slovak forests used for building houses, cottages, restaurants and guesthouses",Slovak Carpathians,Zázrivá,510211
+SLOVAKIA,VC_13_SK,E-commerce and governement incentives to support domestic game meat consumption,Slovak Carpathians,Zliechov,513865
+SLOVAKIA,VC_14_SK,Collection of forest mushrooms for own consumption,Slovak Carpathians,Kamienka,520349
+SLOVAKIA,VC_15_SK,Beekeeping in mountain areas for different bee products and polination.,Slovak Carpathians,Važec,511129
+SLOVAKIA,VC_16_SK,A combination of beekeeping and agrotourism.,Slovak Carpathians,Polichno,511757
+SLOVAKIA,VC_17_SK,A strong alcoholic beverages from juniper berries growing in Slovak mountains protected by PGI,Slovak Carpathians,Spišská Nová Ves,526355
+SLOVAKIA,VC_18_SK,Spring and mineral waters from mountains - sold as natural or flavored with local wild herbs,Slovak Carpathians,Liptovská osada,510637
+SLOVAKIA,VC_19_SK,Winter ski recreation in Slovak mountains,Slovak Carpathians,Štrba,523933
+SLOVAKIA,VC_20_SK,Use of good quality air for healing purposes through recreational stays in high mountains ,Slovak Carpathians,Vysoké Tatry,560103
+SPAIN_VINIDEA,VC_12_ES,"Production of chestnut and wine in Ribeira Sacra, Galicia, Spain.",Galician Massif,A Pobra de Trives,32063
+SPAIN_ADEGUA,VC_05_ES,"Production of spirits, liquors, and brandies, following traditional recipes.",Betic Systems,Rute,14058
+SPAIN_ADEGUA,VC_06_ES,Wines of the Contraviesa,Betic System ,Cádiar ,18035
+SPAIN_ADEGUA,VC_10_ES,Olive oil Protected Designation of Origin “Sierra de Segura” ,Betic Systems,Beas de Segura,23012
+SPAIN_ADEGUA,VC_11_ES,Spanish Vigneronsfrom Huesca Pirineos,Spanish Pyrenees,Ayerbe,22039
+SPAIN_ADEGUA,VC_13_ES,Organic Olive Oil from Zuheros,Betic System ,Zuheros,14075
+SPAIN_ADEGUA,VC_16_ES,"Lanjarón, spring and mineral water from Sierra Nevada",Betic Systems,Lanjarón ,18116
+SPAIN_ADEGUA,VC_18 _ES,Breeding of purebred Spanish horses.,Betic System ,Cabra,14013
+SPAIN_ADEGUA,VC_19_ES,"""Azpi Gorri"" Goat Breed",Cantabrian Mountains,Orozko,48075
+SPAIN_ADEGUA,VC_20_ES,"BETIZU, Basque Country endangered breed",Pyrenees,Goizueta,31117
+SPAIN_ADEGUA,VC_21_ES,Euskal Txerria Pig ,Cantabrian Mountains,Bidania-Goiatz,20024
+SPAIN_ADEGUA,VC_25_ES,Meat from Cervera de Pisuerga and the Palencia Mountains,Cantabrian Mountains,Cervera de Pisuerga,34056
+SPAIN_ADEGUA,VC_26_ES,Veal from Cantabria,Cantabrian Mountains,Polaciones,39053
+SPAIN_ADEGUA,VC_28_ES,Botillo from El Bierzo,Leon Mountains,Ponferrada,24115
+SPAIN_ADEGUA,VC_31_ES,Suckling goat from Malaga,Betic Systems ,Canillas de Aceituno,29033
+SPAIN_ADEGUA,VC_32_ES,Lamb Meat from Zuheros,Betic System ,Zuheros,14075
+SPAIN_ADEGUA,VC_33 _ES,Transhumance livestock,Betic System ,Castril,18046
+SPAIN_ADEGUA,VC_34_ES,Elderly  care in Carcabuey,Betic System ,Carcabuey,14015
+SPAIN_ADEGUA,VC_35_ES,"Indigenous pulses, cereals and fruits of Ascara (Jaca)",Pyrenees,Jaca (Ascara),22130
+SPAIN_ADEGUA,VC_37_ES,Gofio Canario,Gran Canaria Island,Telde,35026
+SPAIN_ADEGUA,VC_38_ES,Cherries from Castillo de Locubín ,Betic Systems,Castillo de Locubín,23026
+SPAIN_ADEGUA,VC_39_ES,"Grazalema wool blankets, textile craftsmanship",Betic Systems,Grazalema,11019
+SPAIN_ADEGUA,VC_42 _ES,"Subbética Ecológica, production and consumption of organic food",Betic System ,Cabra,14013
+SPAIN_ADEGUA,VC_44_ES,"Mantecados de Rute, Traditional Christmas cakes made mainly from lard",Betic Systems,Rute,14058
+SPAIN_ADEGUA,VC_45_ES,Quince juice & vinegar from Carcabuey and Priego de Córdoba,Betic System ,Carcabuey,14015
+SPAIN_ADEGUA,VC_48_ES,Wood charcoal from Gran Canaria island ,Gran Canaria Island,Tejeda,35025
+SPAIN_ADEGUA,VC_50_ES,Mycology in the mountains of Soria,Iberian System,Navaleno ,42129
+SPAIN_UCO,VC_01_ES,Sustainable rural tourism,Sierra Morena,Aracena,N/A
+SPAIN_UCO,VC_02_ES,Astronomy toutism (Starlight tourism),Sierra Morena,Montoro,N/A
+SPAIN_UCO,VC_03_ES,Spirits - anis and cherry drinks,Sierra Morena,Cazalla de la Sierra,N/A
+SPAIN_UCO,VC_04_ES,Hunting,Sierra Morena,Hornachuelos,N/A
+SPAIN_UCO,VC_07_ES,Bailandera beer,Sierra del Guadarrama,Bustarviejo,N/A
+SPAIN_UCO,VC_08_ES,Borda beer,Pyreenes,Sabiñanigo,N/A
+SPAIN_UCO,VC_09_ES,Honey,Sierra Morena,Obejo,N/A
+SPAIN_UCO,VC_14_ES,Goat cheese from Sierra Morena,Sierra Morena,Cazalla de la Sierra,N/A
+SPAIN_UCO,VC_15_ES,Cheese from Picos de Europa,Picos de Europa,Cabrales,N/A
+SPAIN_UCO,VC_17_ES,Spanish fighting bull (Toro de Lidia) ,Sierra Morena,La Carolina,N/A
+SPAIN_UCO,VC_22_ES,Guadarrama goats,Sierra del Guadarrama,El Boalo,N/A
+SPAIN_UCO,VC_23_ES,Andalusian white goats,Sierra Morena,Aroche,N/A
+SPAIN_UCO,VC_24_ES,Protected Geographical Indication (PGI) beef,Sierra del Guadarrama,Colmenar Viejo,N/A
+SPAIN_UCO,VC_27_ES,Iberian Ham (Jamón Ibérico) Protected Designation of Origin (PDO) - Los Pedroches,Sierra Morena,Pozoblanco,N/A
+SPAIN_UCO,VC_29_ES,Organic Iberian goose,Sierra Morena,Constantina,N/A
+SPAIN_UCO,VC_30_ES,Lamb production - COVAP (Cooperativa Ganadera del Valle de los Pedroches),Sierra Morena,Pozoblanco,N/A
+SPAIN_UCO,VC_36_ES,Jacetania Bread,Pyreenes,Ansó,N/A
+SPAIN_UCO,VC_40_ES,Chestnut products,Sierra Morena,Galaroza,N/A
+SPAIN_UCO,VC_41_ES,La Troje seeds,Sierra del Guadarrama,El Berrueco,N/A
+SPAIN_UCO,VC_43_ES,Traditional local sweets and pastries,Sierra Morena,Andújar,N/A
+SPAIN_UCO,VC_46_ES,Anea (Bulrush) handcraft chairs and baskets,Sierra Morena,Galaroza,N/A
+SPAIN_UCO,VC_47_ES,Leather handcraft,Sierra Morena,Montoro,N/A
+SPAIN_UCO,VC_49_ES,High quality cork,Sierra Morena,Hornachuelos,N/A
+SWITZERLAND,VC_CH_01,Merlot from Alps - Ticino,Swiss Alps,Castel San Pietro,CH5249
+SWITZERLAND_1,VC_01_CH1,Traditional alpine dairy products,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_02_CH1,Traditional alpine meat (and other animal) products,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_03_CH1,Traditional alpine fruit products,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_04_CH1,Wine,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_05_CH1,Traditional alpine herbs,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_06_CH1,Traditional alpine vegetable products,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_07_CH1,Game animals,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_08_CH1,Wood,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_09_CH1,"""Bergkartoffeln"" gourmet potatoes",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_10_CH1,Beer,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_11_CH1,Grain and cereal products,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_12_CH1,"""GranAlpin"" cereal products",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_13_CH1,Mushrooms,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_14_CH1,"""Röteli"" - cherry liquor",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_15_CH1,"""Soglio"" cosmetics",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_16_CH1,"""Patrimont Switzerland"" saving old breeds",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_17_CH1,Mountain honey,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_18_CH1,Touristic services,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_19_CH1,Saffron,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_20_CH1,"""Veg Alp"" gourmet culinary products",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_21_CH1,"""Orma"" Whiskey",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_22_CH1,Alpine Fish,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_23_CH1,"""Fruttipertutti""",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_24_CH1,"""ZOJA"" apple tasting box",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_25_CH1,"""AlpenPionier"" hemp products",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_26_CH1,"""Alpinavera"" Nuts",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_27_CH1,"""Valser Naturstein"" quarzite",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_28_CH1,"""AlpenHirt"" dried meat",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_29_CH1,"""Allesmassiv"" carpentry",Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_1,VC_30_CH1,Alps Art Academy & Art Safiental,Swiss Alps,Canton of Grisons,N/A
+SWITZERLAND_2,VC_01_CH2,Cooperative that produces malt from local barley ,Jura ,Orvin; Bourrignon; Delémont; Haute-Sorne; Val Terbi; Les Bois; Saignelégier; Cornol; Courgenay; Fahy; Basse-Allaine,CH0438; CH6703; CH6711; CH6729; CH6730; CH6742; CH6757; CH6782; CH6784; CH6789; CH6807
+SWITZERLAND_2,VC_05_CH2,Promotion and development of horse meat from the swiss jura,Jura ,Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Renan (BE); Saint-Imier; Sonceboz-Sombeval; Tramelan; Villeret; Péry-La Heutte; Champoz; Court; Eschert; Grandval; Moutier; Perrefitte; Reconvilier; Saicourt; Saules (BE); Petit-Val; Valbirse; Nods; Châtillon (FR); Boécourt; Bourrignon; Courchapoix; Courrendlin; Courroux; Courtételle; Delémont; Develier; Mettembert; Movelier; Pleigne; Rossemaison; Saulcy; Soyhières; Haute-Sorne; Val Terbi; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Alle; Boncourt; Bonfol; Bure; Coeuve; Cornol; Courchavon; Courgenay; Courtedoux; Fontenais; Lugnez; Porrentruy; Vendlincourt; Basse-Allaine; Clos du Doubs; Haute-Ajoie; La Baroche,CH0433; CH0434; CH0435; CH0437; CH0441; CH0443; CH0444; CH0446; CH0448; CH0450; CH0683; CH0690; CH0692; CH0694; CH0700; CH0701; CH0703; CH0706; CH0707; CH0716; CH0717; CH0724; CH2008; CH6702; CH6703; CH6706; CH6708; CH6709; CH6710; CH6711; CH6712; CH6716; CH6718; CH6719; CH6721; CH6722; CH6724; CH6729; CH6730; CH6741; CH6742; CH6743; CH6744; CH6745; CH6748; CH6750; CH6751; CH6753; CH6754; CH6757; CH6758; CH6771; CH6774; CH6775; CH6778; CH6781; CH6782; CH6783; CH6784; CH6785; CH6790; CH6793; CH6800; CH6806; CH6807; CH6808; CH6809; CH6810
+SWITZERLAND_2,VC_06_CH2,Jogitz yogurt made from Goat's milk (several flavours),Jura ,Renan (BE),CH0441
+SWITZERLAND_2,VC_08_CH2,"PDO cheese made from raw and whole cow's milk. It's consumption is unique in that it is eaten in the form of rosettes obtained with the help of the ""girolle"".",Jura ,Corgémont; Cormoret; Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Orvin; Renan (BE); Romont (BE); Saint-Imier; Sonceboz-Sombeval; Sonvilier; Tramelan; Villeret; Sauge; Péry-La Heutte; Belprahon; Champoz; Corcelles (BE); Court; Crémines; Eschert; Grandval; Loveresse; Moutier; Perrefitte; Reconvilier; Roches (BE); Saicourt; Saules (BE); Schelten; Seehof; Sorvilier; Tavannes; Rebévelier; Petit-Val; Valbirse; Saulcy; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Soubey; Clos du Doubs,CH0431; CH0432; CH0433; CH0434; CH0435; CH0437; CH0438; CH0441; CH0442; CH0443; CH0444; CH0445; CH0446; CH0448; CH0449; CH0450; CH0681; CH0683; CH0687; CH0690; CH0691; CH0692; CH0694; CH0696; CH0700; CH0701; CH0703; CH0704; CH0706; CH0707; CH0708; CH0709; CH0711; CH0713; CH0715; CH0716; CH0717; CH6722; CH6741; CH6742; CH6743; CH6744; CH6745; CH6748; CH6750; CH6751; CH6753; CH6754; CH6757; CH6758; CH6759; CH6808
+SWITZERLAND_2,VC_09_CH2,"Gruyère is a typical Swiss cheese, produced in the mountain pastures in summer.",Jura ,Corgémont; Cormoret; Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Orvin; Renan (BE); Romont (BE); Saint-Imier; Sonceboz-Sombeval; Sonvilier; Tramelan; Villeret; Sauge; Péry-La Heutte; Belprahon; Champoz; Corcelles (BE); Court; Crémines; Eschert; Grandval; Loveresse; Moutier; Perrefitte; Reconvilier; Roches (BE); Saicourt; Saules (BE); Schelten; Seehof; Sorvilier; Tavannes; Rebévelier; Petit-Val; Valbirse; La Neuveville; Nods; Plateau de Diesse; Bullet; Concise; Fiez; Fontaines-sur-Grandson; Grandevent; Mauborget; Mutrux; Novalles; Provence; Sainte-Croix; Tévenon; L'Abergement; Ballaigues; Baulmes; Juriens; Lignerolle; La Praz; Premier; Vallorbe; Vaulion; L'Abbaye; Le Chenit; Le Lieu; Vugelles-La Mothe; Boudry; Cortaillod; Rochefort; La Grande Béroche; La Chaux-de-Fonds; Les Planchettes; La Sagne; Les Brenets; La Brévine; Brot-Plamboz; Le Cerneux-Péquignot; La Chaux-du-Milieu; Le Locle; Les Ponts-de-Martel; Cressier (NE); Enges; Lignières; Val-de-Ruz; La Côte-aux-Fées; Les Verrières; Val-de-Travers; Boécourt; Bourrignon; Châtillon (JU); Courchapoix; Courrendlin; Courroux; Courtételle; Delémont; Develier; Mervelier; Rossemaison; Saulcy; Soyhières; Haute-Sorne; Val Terbi; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Soubey; Clos du Doubs,CH0431; CH0432; CH0433; CH0434; CH0435; CH0437; CH0438; CH0441; CH0442; CH0443; CH0444; CH0445; CH0446; CH0448; CH0449; CH0450; CH0681; CH0683; CH0687; CH0690; CH0691; CH0692; CH0694; CH0696; CH0700; CH0701; CH0703; CH0704; CH0706; CH0707; CH0708; CH0709; CH0711; CH0713; CH0715; CH0716; CH0717; CH0723; CH0724; CH0726; CH5552; CH5554; CH5556; CH5557; CH5560; CH5562; CH5563; CH5564; CH5566; CH5568; CH5571; CH5741; CH5744; CH5745; CH5754; CH5755; CH5758; CH5759; CH5764; CH5765; CH5871; CH5872; CH5873; CH5937; CH6404; CH6408; CH6413; CH6417; CH6421; CH6422; CH6423; CH6431; CH6432; CH6433; CH6434; CH6435; CH6436; CH6437; CH6452; CH6453; CH6456; CH6487; CH6504; CH6511; CH6512; CH6702; CH6703; CH6704; CH6706; CH6708; CH6709; CH6710; CH6711; CH6712; CH6715; CH6721; CH6722; CH6724; CH6729; CH6730; CH6741; CH6742; CH6743; CH6744; CH6745; CH6748; CH6750; CH6751; CH6753; CH6754; CH6757; CH6758; CH6759; CH6808
+SWITZERLAND_2,VC_11_CH2,Salted cake made of leavened dough and covered with a cream-based mixture,Jura ,Boécourt; Courrendlin; Courtételle; Haute-Sorne; Les Bois; Les Breuleux; Le Noirmont; Saignelégier,CH6702; CH6708; CH6710; CH6729; CH6742; CH6743; CH6754; CH6757
+SWITZERLAND_2,VC_12_CH2,alpine pasture cheese with organic sheep's milk,Jura ,Bière; Gimel; Longirod; Montricher; Le Chenit; Le Lieu,CH5425; CH5428; CH5429; CH5492; CH5872; CH5873
+SWITZERLAND_2,VC_14_CH2,"It is the only remaining horse breed of Swiss origin specialised in driving but with a versatile profile (trekking, sport)",Jura ,Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Renan (BE); Saint-Imier; Sonceboz-Sombeval; Tramelan; Villeret; Péry-La Heutte; Champoz; Court; Eschert; Grandval; Moutier; Perrefitte; Reconvilier; Saicourt; Saules (BE); Petit-Val; Valbirse; Nods; Châtillon (FR); Boécourt; Bourrignon; Courchapoix; Courrendlin; Courroux; Courtételle; Delémont; Develier; Mettembert; Movelier; Pleigne; Rossemaison; Saulcy; Soyhières; Haute-Sorne; Val Terbi; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Alle; Boncourt; Bonfol; Bure; Coeuve; Cornol; Courchavon; Courgenay; Courtedoux; Fontenais; Lugnez; Porrentruy; Vendlincourt; Basse-Allaine; Clos du Doubs; Haute-Ajoie; La Baroche,CH0433; CH0434; CH0435; CH0437; CH0441; CH0443; CH0444; CH0446; CH0448; CH0450; CH0683; CH0690; CH0692; CH0694; CH0700; CH0701; CH0703; CH0706; CH0707; CH0716; CH0717; CH0724; CH2008; CH6702; CH6703; CH6706; CH6708; CH6709; CH6710; CH6711; CH6712; CH6716; CH6718; CH6719; CH6721; CH6722; CH6724; CH6729; CH6730; CH6741; CH6742; CH6743; CH6744; CH6745; CH6748; CH6750; CH6751; CH6753; CH6754; CH6757; CH6758; CH6771; CH6774; CH6775; CH6778; CH6781; CH6782; CH6783; CH6784; CH6785; CH6790; CH6793; CH6800; CH6806; CH6807; CH6808; CH6809; CH6810
+SWITZERLAND_2,VC_15_CH2,Timber harvesting ,Jura ,Corgémont; Cormoret; Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Orvin; Renan (BE); Romont (BE); Saint-Imier; Sonceboz-Sombeval; Sonvilier; Tramelan; Villeret; Sauge; Péry-La Heutte; Belprahon; Champoz; Corcelles (BE); Court; Crémines; Eschert; Grandval; Loveresse; Moutier; Perrefitte; Reconvilier; Roches (BE); Saicourt; Saules (BE); Schelten; Seehof; Sorvilier; Tavannes; Rebévelier; Petit-Val; Valbirse; La Neuveville; Nods; Plateau de Diesse; Bonvillars; Bullet; Champagne; Concise; Corcelles-près-Concise; Fiez; Fontaines-sur-Grandson; Giez; Grandevent; Grandson; Mauborget; Mutrux; Novalles; Onnens (VD); Provence; Sainte-Croix; Tévenon; L'Abergement; Agiez; Arnex-sur-Orbe; Ballaigues; Baulmes; Bavois; Bofflens; Bretonnières; Chavornay; Les Clées; Croy; Juriens; Lignerolle; Montcherand; Orbe; La Praz; Premier; Rances; Romainmôtier-Envy; Sergey; Valeyres-sous-Rances; Vallorbe; Vaulion; Vuiteboeuf; L'Abbaye; Le Chenit; Le Lieu; Belmont-sur-Yverdon; Bioley-Magnoux; Chamblon; Champvent; Chavannes-le-Chêne; Chêne-Pâquier; Cheseaux-Noréaz; Cronay; Cuarny; Démoret; Donneloye; Ependes (VD); Mathod; Molondin; Montagny-près-Yverdon; Orges; Orzens; Pomy; Rovray; Suchy; Suscévaz; Treycovagnes; Ursins; Valeyres-sous-Montagny; Valeyres-sous-Ursins; Villars-Epeney; Vugelles-La Mothe; Yverdon-les-Bains; Yvonand; Boudry; Corcelles-Cormondrèche; Cortaillod; Peseux; Rochefort; Milvignes; La Grande Béroche; La Chaux-de-Fonds; Les Planchettes; La Sagne; Les Brenets; La Brévine; Brot-Plamboz; Le Cerneux-Péquignot; La Chaux-du-Milieu; Le Locle; Les Ponts-de-Martel; Cornaux; Cressier (NE); Enges; Hauterive (NE); Le Landeron; Lignières; Neuchâtel; Saint-Blaise; La Tène; Valangin; Val-de-Ruz; La Côte-aux-Fées; Les Verrières; Val-de-Travers; Boécourt; Bourrignon; Châtillon (JU); Courchapoix; Courrendlin; Courroux; Courtételle; Delémont; Develier; Ederswiler; Mervelier; Mettembert; Movelier; Pleigne; Rossemaison; Saulcy; Soyhières; Haute-Sorne; Val Terbi; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Soubey; Alle; Beurnevésin; Boncourt; Bonfol; Bure; Coeuve; Cornol; Courchavon; Courgenay; Courtedoux; Damphreux; Fahy; Fontenais; Grandfontaine; Lugnez; Porrentruy; Vendlincourt; Basse-Allaine; Clos du Doubs; Haute-Ajoie; La Baroche,CH0431; CH0432; CH0433; CH0434; CH0435; CH0437; CH0438; CH0441; CH0442; CH0443; CH0444; CH0445; CH0446; CH0448; CH0449; CH0450; CH0681; CH0683; CH0687; CH0690; CH0691; CH0692; CH0694; CH0696; CH0700; CH0701; CH0703; CH0704; CH0706; CH0707; CH0708; CH0709; CH0711; CH0713; CH0715; CH0716; CH0717; CH0723; CH0724; CH0726; CH5551; CH5552; CH5553; CH5554; CH5555; CH5556; CH5557; CH5559; CH5560; CH5561; CH5562; CH5563; CH5564; CH5565; CH5566; CH5568; CH5571; CH5741; CH5742; CH5743; CH5744; CH5745; CH5746; CH5747; CH5748; CH5749; CH5750; CH5752; CH5754; CH5755; CH5756; CH5757; CH5758; CH5759; CH5760; CH5761; CH5762; CH5763; CH5764; CH5765; CH5766; CH5871; CH5872; CH5873; CH5902; CH5903; CH5904; CH5905; CH5907; CH5908; CH5909; CH5910; CH5911; CH5912; CH5913; CH5914; CH5919; CH5921; CH5922; CH5924; CH5925; CH5926; CH5928; CH5929; CH5930; CH5931; CH5932; CH5933; CH5934; CH5935; CH5937; CH5938; CH5939; CH6404; CH6407; CH6408; CH6412; CH6413; CH6416; CH6417; CH6421; CH6422; CH6423; CH6431; CH6432; CH6433; CH6434; CH6435; CH6436; CH6437; CH6451; CH6452; CH6453; CH6454; CH6455; CH6456; CH6458; CH6459; CH6461; CH6485; CH6487; CH6504; CH6511; CH6512; CH6702; CH6703; CH6704; CH6706; CH6708; CH6709; CH6710; CH6711; CH6712; CH6713; CH6715; CH6716; CH6718; CH6719; CH6721; CH6722; CH6724; CH6729; CH6730; CH6741; CH6742; CH6743; CH6744; CH6745; CH6748; CH6750; CH6751; CH6753; CH6754; CH6757; CH6758; CH6759; CH6771; CH6773; CH6774; CH6775; CH6778; CH6781; CH6782; CH6783; CH6784; CH6785; CH6787; CH6789; CH6790; CH6792; CH6793; CH6800; CH6806; CH6807; CH6808; CH6809; CH6810
+SWITZERLAND_2,VC_16_CH2,Trout farming in the Doubs river ,Jura ,Soubey; Basse-Allaine,CH6759; CH6807
+SWITZERLAND_2,VC_17_CH2,"Promotion of the production, harvesting and processing of wool from the Swiss Jura region by an association",Jura ,Aarberg; Bargen (BE); Grossaffoltern; Kallnach; Kappelen; Lyss; Meikirch; Radelfingen; Rapperswil (BE); Schüpfen; Seedorf (BE); Aarwangen; Auswil; Bannwil; Bleienbach; Busswil bei Melchnau; Gondiswil; Langenthal; Lotzwil; Madiswil; Melchnau; Obersteckholz; Oeschenbach; Reisiswil; Roggwil (BE); Rohrbach; Rohrbachgraben; Rütschelen; Schwarzhäusern; Thunstetten; Ursenbach; Wynau; Bern; Bolligen; Bremgarten bei Bern; Kirchlindach; Köniz; Muri bei Bern; Oberbalm; Stettlen; Vechigen; Wohlen bei Bern; Zollikofen; Ittigen; Ostermundigen; Biel/Bienne; Evilard; Arch; Büetigen; Büren an der Aare; Diessbach bei Büren; Dotzigen; Lengnau (BE); Leuzigen; Meienried; Meinisberg; Oberwil bei Büren; Pieterlen; Rüti bei Büren; Wengi; Aefligen; Alchenstorf; Bäriswil; Burgdorf; Ersigen; Hasle bei Burgdorf; Heimiswil; Hellsau; Hindelbank; Höchstetten; Kernenried; Kirchberg (BE); Koppigen; Krauchthal; Lyssach; Mötschwil; Oberburg; Rüdtligen-Alchenflüh; Rumendingen; Rüti bei Lyssach; Willadingen; Wynigen; Corgémont; Cormoret; Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Orvin; Renan (BE); Romont (BE); Saint-Imier; Sonceboz-Sombeval; Sonvilier; Tramelan; Villeret; Sauge; Péry-La Heutte; Brüttelen; Erlach; Finsterhennen; Gals; Gampelen; Ins; Lüscherz; Müntschemier; Siselen; Treiten; Tschugg; Vinelz; Bätterkinden; Deisswil b. Münchenbuch.; Diemerswil; Fraubrunnen; Jegenstorf; Iffwil; Mattstetten; Moosseedorf; Münchenbuchsee; Urtenen-Schönbühl; Utzenstorf; Wiggiswil; Wiler bei Utzenstorf; Zielebach; Zuzwil (BE); Adelboden; Aeschi bei Spiez; Frutigen; Kandergrund; Kandersteg; Krattigen; Reichenbach im Kandertal; Beatenberg; Bönigen; Brienz (BE); Brienzwiler; Därligen; Grindelwald; Gsteigwiler; Gündlischwand; Habkern; Hofstetten bei Brienz; Interlaken; Iseltwald; Lauterbrunnen; Leissigen; Lütschental; Matten bei Interlaken; Niederried b. Interlaken; Oberried am Brienzersee; Ringgenberg (BE); Saxeten; Schwanden bei Brienz; Unterseen; Wilderswil; Arni (BE); Biglen; Bowil; Brenzikofen; Freimettigen; Grosshöchstetten; Häutligen; Herbligen; Kiesen; Konolfingen; Landiswil; Linden; Mirchel; Münsingen; Niederhünigen; Oberdiessbach; Oberthal; Oppligen; Rubigen; Walkringen; Worb; Zäziwil; Oberhünigen; Allmendingen; Wichtrach; Clavaleyres; Ferenbalm; Frauenkappelen; Gurbrü; Kriechenwil; Laupen; Mühleberg; Münchenwiler; Neuenegg; Wileroltigen; Belprahon; Champoz; Corcelles (BE); Court; Crémines; Eschert; Grandval; Loveresse; Moutier; Perrefitte; Reconvilier; Roches (BE); Saicourt; Saules (BE); Schelten; Seehof; Sorvilier; Tavannes; Rebévelier; Petit-Val; Valbirse; La Neuveville; Nods; Plateau de Diesse; Aegerten; Bellmund; Brügg; Bühl; Epsach; Hagneck; Hermrigen; Jens; Ipsach; Ligerz; Merzligen; Mörigen; Nidau; Orpund; Port; Safnern; Scheuren; Schwadernau; Studen (BE); Sutz-Lattrigen; Täuffelen; Walperswil; Worben; Twann-Tüscherz; Därstetten; Diemtigen; Erlenbach im Simmental; Oberwil im Simmental; Reutigen; Spiez; Wimmis; Stocken-Höfen; Guttannen; Hasliberg; Innertkirchen; Meiringen; Schattenhalb; Boltigen; Lenk; St. Stephan; Zweisimmen; Gsteig; Lauenen; Saanen; Guggisberg; Rüschegg; Schwarzenburg; Belp; Burgistein; Gerzensee; Gurzelen; Jaberg; Kaufdorf; Kehrsatz; Kirchdorf (BE); Niedermuhlern; Riggisberg; Rüeggisberg; Rümligen; Seftigen; Toffen; Uttigen; Wattenwil; Wald (BE); Thurnen; Eggiwil; Langnau im Emmental; Lauperswil; Röthenbach im Emmental; Rüderswil; Schangnau; Signau; Trub; Trubschachen; Amsoldingen; Blumenstein; Buchholterberg; Eriz; Fahrni; Heiligenschwendi; Heimberg; Hilterfingen; Homberg; Horrenbach-Buchen; Oberhofen am Thunersee; Oberlangenegg; Pohlern; Sigriswil; Steffisburg; Teuffenthal (BE); Thierachern; Thun; Uebeschi; Uetendorf; Unterlangenegg; Wachseldorn; Zwieselberg; Forst-Längenbühl; Affoltern im Emmental; Dürrenroth; Eriswil; Huttwil; Lützelflüh; Rüegsau; Sumiswald; Trachselwald; Walterswil (BE); Wyssachen; Attiswil; Berken; Bettenhausen; Farnern; Graben; Heimenhausen; Herzogenbuchsee; Inkwil; Niederbipp; Niederönz; Oberbipp; Ochlenberg; Rumisberg; Seeberg; Thörigen; Walliswil bei Niederbipp; Walliswil bei Wangen; Wangen an der Aare; Wangenried; Wiedlisbach; Boudry; Corcelles-Cormondrèche; Cortaillod; Peseux; Rochefort; Milvignes; La Grande Béroche; La Chaux-de-Fonds; Les Planchettes; La Sagne; Les Brenets; La Brévine; Brot-Plamboz; Le Cerneux-Péquignot; La Chaux-du-Milieu; Le Locle; Les Ponts-de-Martel; Cornaux; Cressier (NE); Enges; Hauterive (NE); Le Landeron; Lignières; Neuchâtel; Saint-Blaise; La Tène; Valangin; Val-de-Ruz; La Côte-aux-Fées; Les Verrières; Val-de-Travers; Boécourt; Bourrignon; Châtillon (JU); Courchapoix; Courrendlin; Courroux; Courtételle; Delémont; Develier; Ederswiler; Mervelier; Mettembert; Movelier; Pleigne; Rossemaison; Saulcy; Soyhières; Haute-Sorne; Val Terbi; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Soubey; Alle; Beurnevésin; Boncourt; Bonfol; Bure; Coeuve; Cornol; Courchavon; Courgenay; Courtedoux; Damphreux; Fahy; Fontenais; Grandfontaine; Lugnez; Porrentruy; Vendlincourt; Basse-Allaine; Clos du Doubs; Haute-Ajoie; La Baroche,CH0301; CH0302; CH0303; CH0304; CH0305; CH0306; CH0307; CH0309; CH0310; CH0311; CH0312; CH0321; CH0322; CH0323; CH0324; CH0325; CH0326; CH0329; CH0331; CH0332; CH0333; CH0334; CH0335; CH0336; CH0337; CH0338; CH0339; CH0340; CH0341; CH0342; CH0344; CH0345; CH0351; CH0352; CH0353; CH0354; CH0355; CH0356; CH0357; CH0358; CH0359; CH0360; CH0361; CH0362; CH0363; CH0371; CH0372; CH0381; CH0382; CH0383; CH0385; CH0386; CH0387; CH0388; CH0389; CH0390; CH0391; CH0392; CH0393; CH0394; CH0401; CH0402; CH0403; CH0404; CH0405; CH0406; CH0407; CH0408; CH0409; CH0410; CH0411; CH0412; CH0413; CH0414; CH0415; CH0416; CH0418; CH0420; CH0421; CH0422; CH0423; CH0424; CH0431; CH0432; CH0433; CH0434; CH0435; CH0437; CH0438; CH0441; CH0442; CH0443; CH0444; CH0445; CH0446; CH0448; CH0449; CH0450; CH0491; CH0492; CH0493; CH0494; CH0495; CH0496; CH0497; CH0498; CH0499; CH0500; CH0501; CH0502; CH0533; CH0535; CH0536; CH0538; CH0540; CH0541; CH0543; CH0544; CH0546; CH0551; CH0552; CH0553; CH0554; CH0556; CH0557; CH0561; CH0562; CH0563; CH0564; CH0565; CH0566; CH0567; CH0571; CH0572; CH0573; CH0574; CH0575; CH0576; CH0577; CH0578; CH0579; CH0580; CH0581; CH0582; CH0584; CH0585; CH0586; CH0587; CH0588; CH0589; CH0590; CH0591; CH0592; CH0593; CH0594; CH0602; CH0603; CH0605; CH0606; CH0607; CH0608; CH0609; CH0610; CH0611; CH0612; CH0613; CH0614; CH0615; CH0616; CH0617; CH0619; CH0620; CH0622; CH0623; CH0626; CH0627; CH0628; CH0629; CH0630; CH0632; CH0661; CH0662; CH0663; CH0665; CH0666; CH0667; CH0668; CH0669; CH0670; CH0671; CH0681; CH0683; CH0687; CH0690; CH0691; CH0692; CH0694; CH0696; CH0700; CH0701; CH0703; CH0704; CH0706; CH0707; CH0708; CH0709; CH0711; CH0713; CH0715; CH0716; CH0717; CH0723; CH0724; CH0726; CH0731; CH0732; CH0733; CH0734; CH0735; CH0736; CH0737; CH0738; CH0739; CH0740; CH0741; CH0742; CH0743; CH0744; CH0745; CH0746; CH0747; CH0748; CH0749; CH0750; CH0751; CH0754; CH0755; CH0756; CH0761; CH0762; CH0763; CH0766; CH0767; CH0768; CH0769; CH0770; CH0782; CH0783; CH0784; CH0785; CH0786; CH0791; CH0792; CH0793; CH0794; CH0841; CH0842; CH0843; CH0852; CH0853; CH0855; CH0861; CH0863; CH0866; CH0867; CH0868; CH0869; CH0870; CH0872; CH0877; CH0879; CH0880; CH0881; CH0883; CH0884; CH0885; CH0886; CH0888; CH0889; CH0901; CH0902; CH0903; CH0904; CH0905; CH0906; CH0907; CH0908; CH0909; CH0921; CH0922; CH0923; CH0924; CH0925; CH0927; CH0928; CH0929; CH0931; CH0932; CH0934; CH0935; CH0936; CH0938; CH0939; CH0940; CH0941; CH0942; CH0943; CH0944; CH0945; CH0946; CH0947; CH0948; CH0951; CH0952; CH0953; CH0954; CH0955; CH0956; CH0957; CH0958; CH0959; CH0960; CH0971; CH0972; CH0973; CH0975; CH0976; CH0977; CH0979; CH0980; CH0981; CH0982; CH0983; CH0985; CH0987; CH0988; CH0989; CH0990; CH0991; CH0992; CH0993; CH0995; CH6404; CH6407; CH6408; CH6412; CH6413; CH6416; CH6417; CH6421; CH6422; CH6423; CH6431; CH6432; CH6433; CH6434; CH6435; CH6436; CH6437; CH6451; CH6452; CH6453; CH6454; CH6455; CH6456; CH6458; CH6459; CH6461; CH6485; CH6487; CH6504; CH6511; CH6512; CH6702; CH6703; CH6704; CH6706; CH6708; CH6709; CH6710; CH6711; CH6712; CH6713; CH6715; CH6716; CH6718; CH6719; CH6721; CH6722; CH6724; CH6729; CH6730; CH6741; CH6742; CH6743; CH6744; CH6745; CH6748; CH6750; CH6751; CH6753; CH6754; CH6757; CH6758; CH6759; CH6771; CH6773; CH6774; CH6775; CH6778; CH6781; CH6782; CH6783; CH6784; CH6785; CH6787; CH6789; CH6790; CH6792; CH6793; CH6800; CH6806; CH6807; CH6808; CH6809; CH6810
+SWITZERLAND_2,VC_18_CH2,Local mustard produces and transformed on the farm. ,Jura ,Tévenon,CH5571
+SWITZERLAND_2,VC_38_CH2,"Different types of honey from the Jura Vaudois (moutain, flower, fir tree, forest). The beehives are in winter at l'Isle in the plains and in summer in the mountains.",Jura ,L'Isle; L'Abbaye; Le Chenit; Le Lieu,CH5486; CH5871; CH5872; CH5873
+SWITZERLAND_2,VC_41_CH2,"Plants grown, dried and transformed into herbal tea or cosmetic products directly on the farm ",Jura ,Vaulion,CH5765
+SWITZERLAND_2,VC_43_CH2,"Cheese made from cow's milk, eaten raw and baked ",Jura ,Apples; Aubonne; Ballens; Berolle; Bière; Bougy-Villars; Féchy; Gimel; Longirod; Marchissy; Mollens (VD); Montherod; Saint-George; Saint-Livres; Saint-Oyens; Saubraz; Bettens; Bournens; Boussens; La Chaux (Cossonay); Chavannes-le-Veyron; Chevilly; Cossonay; Cottens (VD); Cuarnens; Daillens; Dizy; Eclépens; Ferreyres; Gollion; Grancy; L'Isle; Lussery-Villars; Mauraz; Mex (VD); Moiry; Mont-la-Ville; Montricher; Orny; Pampigny; Penthalaz; Penthaz; Pompaples; La Sarraz; Senarclens; Sévery; Sullens; Vufflens-la-Ville; Bonvillars; Bullet; Champagne; Concise; Corcelles-près-Concise; Fiez; Fontaines-sur-Grandson; Giez; Grandevent; Grandson; Mauborget; Mutrux; Novalles; Onnens (VD); Provence; Sainte-Croix; Tévenon; Aclens; Bremblens; Buchillon; Bussy-Chardonney; Chigny; Clarmont; Denens; Echichens; Etoy; Lavigny; Lonay; Lully (VD); Lussy-sur-Morges; Morges; Reverolle; Romanel-sur-Morges; Saint-Prex; Tolochenaz; Vaux-sur-Morges; Villars-sous-Yens; Vufflens-le-Château; Vullierens; Yens; Arzier-Le Muids; Bassins; Saint-Cergue; Le Vaud; L'Abergement; Agiez; Arnex-sur-Orbe; Ballaigues; Baulmes; Bavois; Bofflens; Bretonnières; Les Clées; Croy; Juriens; Lignerolle; Montcherand; Orbe; La Praz; Premier; Rances; Romainmôtier-Envy; Sergey; Valeyres-sous-Rances; Vallorbe; Vaulion; Vuiteboeuf; Allaman; Essertines-sur-Rolle; L'Abbaye; Le Chenit; Le Lieu; Orges; Vugelles-La Mothe,CH5421; CH5422; CH5423; CH5424; CH5425; CH5426; CH5427; CH5428; CH5429; CH5430; CH5431; CH5432; CH5434; CH5435; CH5436; CH5437; CH5471; CH5472; CH5473; CH5474; CH5475; CH5476; CH5477; CH5478; CH5479; CH5480; CH5481; CH5482; CH5483; CH5484; CH5485; CH5486; CH5487; CH5488; CH5489; CH5490; CH5491; CH5492; CH5493; CH5494; CH5495; CH5496; CH5497; CH5498; CH5499; CH5500; CH5501; CH5503; CH5551; CH5552; CH5553; CH5554; CH5555; CH5556; CH5557; CH5559; CH5560; CH5561; CH5562; CH5563; CH5564; CH5565; CH5566; CH5568; CH5571; CH5621; CH5622; CH5623; CH5625; CH5628; CH5629; CH5631; CH5634; CH5636; CH5637; CH5638; CH5639; CH5640; CH5642; CH5644; CH5645; CH5646; CH5649; CH5650; CH5652; CH5653; CH5654; CH5655; CH5702; CH5703; CH5727; CH5731; CH5741; CH5742; CH5743; CH5744; CH5745; CH5746; CH5747; CH5748; CH5750; CH5752; CH5754; CH5755; CH5756; CH5757; CH5758; CH5759; CH5760; CH5761; CH5762; CH5763; CH5764; CH5765; CH5766; CH5851; CH5856; CH5871; CH5872; CH5873; CH5924; CH5937
+SWITZERLAND_2,VC_45_CH2,"cow's milk milk that has not been pasteurised, sterilised or thermised and is sold directly ",Jura ,Corgémont; Cormoret; Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Orvin; Renan (BE); Romont (BE); Saint-Imier; Sonceboz-Sombeval; Sonvilier; Tramelan; Villeret; Sauge; Péry-La Heutte; Belprahon; Champoz; Corcelles (BE); Court; Crémines; Eschert; Grandval; Loveresse; Moutier; Perrefitte; Reconvilier; Roches (BE); Saicourt; Saules (BE); Schelten; Seehof; Sorvilier; Tavannes; Rebévelier; Petit-Val; Valbirse; La Neuveville; Nods; Plateau de Diesse; Hauenstein-Ifenthal; Kienberg; Lostorf; Rohr (SO); Trimbach; Wisen (SO); Oberhof; Bullet; Concise; Fiez; Fontaines-sur-Grandson; Grandevent; Mauborget; Mutrux; Novalles; Provence; Sainte-Croix; Tévenon; L'Abergement; Ballaigues; Baulmes; Juriens; Lignerolle; La Praz; Premier; Vallorbe; Vaulion; L'Abbaye; Le Chenit; Le Lieu; Vugelles-La Mothe; Boudry; Cortaillod; Rochefort; La Grande Béroche; La Chaux-de-Fonds; Les Planchettes; La Sagne; Les Brenets; La Brévine; Brot-Plamboz; Le Cerneux-Péquignot; La Chaux-du-Milieu; Le Locle; Les Ponts-de-Martel; Cressier (NE); Enges; Lignières; Val-de-Ruz; La Côte-aux-Fées; Les Verrières; Val-de-Travers; Boécourt; Bourrignon; Châtillon (JU); Courchapoix; Courrendlin; Courroux; Courtételle; Delémont; Develier; Mervelier; Rossemaison; Saulcy; Soyhières; Haute-Sorne; Val Terbi; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Soubey; Clos du Doubs,CH0431; CH0432; CH0433; CH0434; CH0435; CH0437; CH0438; CH0441; CH0442; CH0443; CH0444; CH0445; CH0446; CH0448; CH0449; CH0450; CH0681; CH0683; CH0687; CH0690; CH0691; CH0692; CH0694; CH0696; CH0700; CH0701; CH0703; CH0704; CH0706; CH0707; CH0708; CH0709; CH0711; CH0713; CH0715; CH0716; CH0717; CH0723; CH0724; CH0726; CH2491; CH2492; CH2493; CH2498; CH2500; CH2502; CH4173; CH5552; CH5554; CH5556; CH5557; CH5560; CH5562; CH5563; CH5564; CH5566; CH5568; CH5571; CH5741; CH5744; CH5745; CH5754; CH5755; CH5758; CH5759; CH5764; CH5765; CH5871; CH5872; CH5873; CH5937; CH6404; CH6408; CH6413; CH6417; CH6421; CH6422; CH6423; CH6431; CH6432; CH6433; CH6434; CH6435; CH6436; CH6437; CH6452; CH6453; CH6456; CH6487; CH6504; CH6511; CH6512; CH6702; CH6703; CH6704; CH6706; CH6708; CH6709; CH6710; CH6711; CH6712; CH6715; CH6721; CH6722; CH6724; CH6729; CH6730; CH6741; CH6742; CH6743; CH6744; CH6745; CH6748; CH6750; ; ; ; ; ; ; 
+SWITZERLAND_2,VC_49_CH2,"Absinthe is a set of spirits made from absinth plants, to be mixed with water for consumption ",Jura ,Val-de-Travers,CH6512
+SWITZERLAND_2,VC_50_CH2,"Some farmers welcome tourists to offer them accommodation (often on straw), a culinary experience or other activities (sports, horse riding) ",Jura ,Corgémont; Cormoret; Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Orvin; Renan (BE); Romont (BE); Saint-Imier; Sonceboz-Sombeval; Sonvilier; Tramelan; Villeret; Sauge; Péry-La Heutte; Belprahon; Champoz; Corcelles (BE); Court; Crémines; Eschert; Grandval; Loveresse; Moutier; Perrefitte; Reconvilier; Roches (BE); Saicourt; Saules (BE); Schelten; Seehof; Sorvilier; Tavannes; Rebévelier; Petit-Val; Valbirse; La Neuveville; Nods; Plateau de Diesse; Hauenstein-Ifenthal; Kienberg; Lostorf; Rohr (SO); Trimbach; Wisen (SO); Oberhof; Bullet; Concise; Fiez; Fontaines-sur-Grandson; Grandevent; Mauborget; Mutrux; Novalles; Provence; Sainte-Croix; Tévenon; L'Abergement; Ballaigues; Baulmes; Juriens; Lignerolle; La Praz; Premier; Vallorbe; Vaulion; L'Abbaye; Le Chenit; Le Lieu; Vugelles-La Mothe; Boudry; Cortaillod; Rochefort; La Grande Béroche; La Chaux-de-Fonds; Les Planchettes; La Sagne; Les Brenets; La Brévine; Brot-Plamboz; Le Cerneux-Péquignot; La Chaux-du-Milieu; Le Locle; Les Ponts-de-Martel; Cressier (NE); Enges; Lignières; Val-de-Ruz; La Côte-aux-Fées; Les Verrières; Val-de-Travers; Boécourt; Bourrignon; Châtillon (JU); Courchapoix; Courrendlin; Courroux; Courtételle; Delémont; Develier; Mervelier; Rossemaison; Saulcy; Soyhières; Haute-Sorne; Val Terbi; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Soubey; Clos du Doubs,CH0431; CH0432; CH0433; CH0434; CH0435; CH0437; CH0438; CH0441; CH0442; CH0443; CH0444; CH0445; CH0446; CH0448; CH0449; CH0450; CH0681; CH0683; CH0687; CH0690; CH0691; CH0692; CH0694; CH0696; CH0700; CH0701; CH0703; CH0704; CH0706; CH0707; CH0708; CH0709; CH0711; CH0713; CH0715; CH0716; CH0717; CH0723; CH0724; CH0726; CH2491; CH2492; CH2493; CH2498; CH2500; CH2502; CH4173; CH5552; CH5554; CH5556; CH5557; CH5560; CH5562; CH5563; CH5564; CH5566; CH5568; CH5571; CH5741; CH5744; CH5745; CH5754; CH5755; CH5758; CH5759; CH5764; CH5765; CH5871; CH5872; CH5873; CH5937; CH6404; CH6408; CH6413; CH6417; CH6421; CH6422; CH6423; CH6431; CH6432; CH6433; CH6434; CH6435; CH6436; CH6437; CH6452; CH6453; CH6456; CH6487; CH6504; CH6511; CH6512; CH6702; CH6703; CH6704; CH6706; CH6708; CH6709; CH6710; CH6711; CH6712; CH6715; CH6721; CH6722; CH6724; CH6729; CH6730; CH6741; CH6742; CH6743; CH6744; CH6745; CH6748; CH6750; ; ; ; ; ; ; 
+SWITZERLAND_2,VC_51_CH2,Goat's milk cheese made by hand directly on the mountain pasture ,Jura ,Gimel; Vaulion,CH5428; CH5765
+SWITZERLAND_2,VC_54_CH2,Label of the Swiss Mother Cow Association (association des vaches mères suisse) for beef from suckler cows or suckler cows in accordance with the principles of organic farming,Jura ,Corgémont; Cormoret; Cortébert; Courtelary; La Ferrière; Mont-Tramelan; Orvin; Renan (BE); Romont (BE); Saint-Imier; Sonceboz-Sombeval; Sonvilier; Tramelan; Villeret; Sauge; Péry-La Heutte; Belprahon; Champoz; Corcelles (BE); Court; Crémines; Eschert; Grandval; Loveresse; Moutier; Perrefitte; Reconvilier; Roches (BE); Saicourt; Saules (BE); Schelten; Seehof; Sorvilier; Tavannes; Rebévelier; Petit-Val; Valbirse; La Neuveville; Nods; Plateau de Diesse; Hauenstein-Ifenthal; Kienberg; Lostorf; Rohr (SO); Trimbach; Wisen (SO); Oberhof; Bullet; Concise; Fiez; Fontaines-sur-Grandson; Grandevent; Mauborget; Mutrux; Novalles; Provence; Sainte-Croix; Tévenon; L'Abergement; Ballaigues; Baulmes; Juriens; Lignerolle; La Praz; Premier; Vallorbe; Vaulion; L'Abbaye; Le Chenit; Le Lieu; Vugelles-La Mothe; Boudry; Cortaillod; Rochefort; La Grande Béroche; La Chaux-de-Fonds; Les Planchettes; La Sagne; Les Brenets; La Brévine; Brot-Plamboz; Le Cerneux-Péquignot; La Chaux-du-Milieu; Le Locle; Les Ponts-de-Martel; Cressier (NE); Enges; Lignières; Val-de-Ruz; La Côte-aux-Fées; Les Verrières; Val-de-Travers; Boécourt; Bourrignon; Châtillon (JU); Courchapoix; Courrendlin; Courroux; Courtételle; Delémont; Develier; Mervelier; Rossemaison; Saulcy; Soyhières; Haute-Sorne; Val Terbi; Le Bémont (JU); Les Bois; Les Breuleux; La Chaux-des-Breuleux; Les Enfers; Les Genevez (JU); Lajoux (JU); Montfaucon; Muriaux; Le Noirmont; Saignelégier; Saint-Brais; Soubey; Clos du Doubs,CH0431; CH0432; CH0433; CH0434; CH0435; CH0437; CH0438; CH0441; CH0442; CH0443; CH0444; CH0445; CH0446; CH0448; CH0449; CH0450; CH0681; CH0683; CH0687; CH0690; CH0691; CH0692; CH0694; CH0696; CH0700; CH0701; CH0703; CH0704; CH0706; CH0707; CH0708; CH0709; CH0711; CH0713; CH0715; CH0716; CH0717; CH0723; CH0724; CH0726; CH2491; CH2492; CH2493; CH2498; CH2500; CH2502; CH4173; CH5552; CH5554; CH5556; CH5557; CH5560; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; 
+TURKEY,VC_01_TR,Goat and sheep milk and dairy products. The milk comes from small scaled family farms grazing with natural grass. Dairy products are produced in an artisanal way.,"Bey mountains, Antalya",Korkuteli,TR611-1483
+TURKEY,VC_02_TR,Fresh Vegetable (Greenhouse tomato): Greenhouse Tomato Cultivation in Highland,"Bey mountains, Antalya",Elmalı,TR611-1303
+TURKEY,VC_03_TR,Cultivated Mushroom,"Bey mountains, Antalya",Korkuteli,TR611-1483
+TURKEY,VC_04_TR,Fresh Fruit (Apple),"Bey mountains, Antalya",Elmalı,TR611-1303
+TURKEY,VC_05_TR,Fresh Fruit (Grapes),"Bey mountains, Antalya",Elmalı,TR611-1303
+TURKEY,VC_06_TR,Fresh Fruit (Pears): Korkuteli Karyağdı Pear ,"Bey mountains, Antalya",Korkuteli,TR611-1483
+TURKEY,VC_07_TR,It is natural extra virgin olive oil obtained from Ayvalık (Edremit) olive variety.,"Edremit, Balıkesir",Edremit,TR221-1294
+TURKEY,VC_08_TR,Special types of chestnut trees for candied which is at the east of the İzmir on Bozdağ Mountains ,"Bozdağ, Ödemiş, İzmir",Ödemiş,TR310-1563
+TURKEY,VC_09_TR,Special kind of tulum cheese from goat and sheep milk,"Kiraz, İzmir",Kiraz,TR310-1477
+TURKEY,VC_10_TR,Erzincan Tulum Cheese, Esence and Munzur mountains,İliç,1406
+TURKEY,VC_11_TR,Pine Honey,Menteşe Mountains,Ula,1695
+TURKEY,VC_12_TR,Tea Leaves produce in Rize,Eastern Black Sea Mountains,Güneysu,1796
+TURKEY,VC_13_TR,Anzer honey,Kaçkar Mountain,İkizdere,LAU1405
+TURKEY,VC_14_TR,Kars Gruyere and kashar produced in Boğatepe.,Allahuekber Mountains, Merkez (Kars),LAU1447
+TURKEY,VC_15_TR,Aydın Fig is an agriicultural product that is consumed fresh and dried.,"Germencik, Aydın",Germencik,TR321-1348
+TURKEY,VC_16_TR,Aydın Chesnut is an agriicultural product that is consumed fresh.,Aydın,Bozdoğan,1206
+TURKEY,VC_17_TR,Pine Nuts,"Bergama, İzmir",Bergama ,TR310-1181
+TURKEY,VC_18_TR,It is a traditional local cheese from goat and sheep milk. ,"Bergama, İzmir",Bergama ,TR310-1181
+TURKEY,VC_19_TR,N/A,Datça mountains,Datça,LAU 1266
+TURKEY,VC_20_TR,N/A,Eastern Black Sea Mountains,Ulubey,1696

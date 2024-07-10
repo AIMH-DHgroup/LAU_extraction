@@ -667,7 +667,7 @@ print("Not found: " + str(455-count-na))
 print("N/A: " + str(na))
 
 
-with open(CSV_DATASET, 'r') as read_obj, open('output9.csv', 'w', newline='') as write_obj:
+with open(CSV_DATASET, 'r') as read_obj, open('output.csv', 'w', newline='') as write_obj:
     # Create a csv.reader object from the input file object
     csv_reader = csv.reader(read_obj)
     # Create a csv.writer object from the output file object
