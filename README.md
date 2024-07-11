@@ -40,19 +40,45 @@ For each event in the input Excel file:
 The algorithm works this way, for every event clean the two fields with a set of regular expressions and extract the country code from the Value Chain identifier.
 Firstly search if exist the value of 'RML' in the GeoJSON LAUs 2020 file, searching by LAU_NAME. Then search if exist the 'LAU' in the GeoJSON LAUs 2020 file, searching by LAU_ID. If the algorithm finds a match, it checks if the country code of the match is the same as the country code of the event. If the answer is positive the LAU is found and the algorithm extracts the polygon of the LAU, computes the centroid, which is weighted by the area of each polygon, and goes to the next event. Otherwise, it searches the string that represents the Reference mountain landscape through the Wikidata SPARQL endpoint. Sometimes in the LAU field, it is possible to find the NUTS3 code. In these cases, the algorithm searches the code in the GeoJSON of NUTS codes, provided by GISCO. 
 
-# Dependencies
+Here's an improved and corrected version of the installation instructions in the README:
 
-The `requirements.txt` file should list all Python libraries that app.py
-depend on, and they will be installed using:
-
-```
-pip3 install -r requirements.txt
-```
-# Run 
-
-Download the repository and launch the applycation using:
+# Install and Run
+Download the repository and unzip it into a folder, or clone the repository using:
 
 ```
-python3 app.py
+git clone <repository_url>
+```
+
+## Dependencies
+The `requirements.txt` file lists all Python libraries that `app.py` depends on. Install them using:
+
+```
+pip install -r requirements.txt
+```
+
+## Create a Virtual Environment
+Create a virtual environment using:
+
+```
+python -m venv <name>
+```
+Replace `<name>` with the name you want to give to the virtual environment.
+
+Activate the virtual environment:
+
+- On Windows:
+  ```
+  <name>\Scripts\activate
+  ```
+- On macOS and Linux:
+  ```
+  source <name>/bin/activate
+  ```
+
+## Run
+Launch the application using:
+
+```
+python app.py
 ```
 
