@@ -1,5 +1,15 @@
 # LAU geometries extraction
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Installation](#installation)
+4. [Running the Application](#running-the-application)
+5. [Usage](#usage)
+6. [License](#license)
+7. [Contact](#contact)
+
+## Introduction
 To meet the demand for statistics at a local level, Eurostat maintains a system of Local Administrative Units (LAUs) compatible with the Nomenclature of territorial units for statistics (NUTS). The upper LAU level (LAU level 1, formerly NUTS level 4) was defined for most, but not all of the countries. The lower LAU level (LAU level 2, formerly NUTS level 5) consisted of municipalities or equivalent units in the 28 European Union Member States. 
 
 The plain text of the input MS Excel rows (events) contains two relevant columns with the pieces of information about LAUs. The first column is 'Reference mountain landscape' (RML) which often contains a string that coincides with the name of the LAU. The second column is 'LAU' which often contains the code of the LAU level 2. Unfortunately, the source data are not so accurate and complete and therefore there are exceptions to this rule. The first step is the create some regular expressions to extract the most relevant pieces of information and clean data from disturbing fragments, e.g. the fragment "LAU" before the code in the LAU column. Eventually, the Value Chain ID is necessary to extract the country code because it contains the ISO 3166-1 alpha-2 code, which serves to validate the extracted information since the same LAU code or name can be used for different LAUs in different countries.
@@ -40,45 +50,59 @@ For each event in the input Excel file:
 The algorithm works this way, for every event clean the two fields with a set of regular expressions and extract the country code from the Value Chain identifier.
 Firstly search if exist the value of 'RML' in the GeoJSON LAUs 2020 file, searching by LAU_NAME. Then search if exist the 'LAU' in the GeoJSON LAUs 2020 file, searching by LAU_ID. If the algorithm finds a match, it checks if the country code of the match is the same as the country code of the event. If the answer is positive the LAU is found and the algorithm extracts the polygon of the LAU, computes the centroid, which is weighted by the area of each polygon, and goes to the next event. Otherwise, it searches the string that represents the Reference mountain landscape through the Wikidata SPARQL endpoint. Sometimes in the LAU field, it is possible to find the NUTS3 code. In these cases, the algorithm searches the code in the GeoJSON of NUTS codes, provided by GISCO. 
 
-Here's an improved and corrected version of the installation instructions in the README:
+## Prerequisites
+Ensure you have the following installed on your system:
+- Python 3.x
+- `pip` (Python package installer)
 
-# Install and Run
-Download the repository and unzip it into a folder, or clone the repository using:
+## Installation
 
-```
+### 1. Download the Repository
+Download and unzip the repository into a folder, or clone the repository using the following command:
+
+```sh
 git clone <repository_url>
 ```
 
-## Create a Virtual Environment
-Create a virtual environment using:
+### 2. Create a Virtual Environment
+Navigate to the project directory and create a virtual environment:
 
+```sh
+python -m venv <env_name>
 ```
-python -m venv <name>
-```
-Replace `<name>` with the name you want to give to the virtual environment.
+
+Replace `<env_name>` with your desired name for the virtual environment.
 
 Activate the virtual environment:
 
-- On Windows:
+- **On Windows:**
+  ```sh
+  <env_name>\Scripts\activate
   ```
-  <name>\Scripts\activate
-  ```
-- On macOS and Linux:
-  ```
-  source <name>/bin/activate
+- **On macOS and Linux:**
+  ```sh
+  source <env_name>/bin/activate
   ```
 
-## Dependencies
-The `requirements.txt` file lists all Python libraries that `app.py` depends on. Install them using:
+### 3. Install Dependencies
+Install the required Python libraries listed in `requirements.txt`:
 
-```
+```sh
 pip install -r requirements.txt
 ```
 
-## Run
-Launch the application using:
+## Running the Application
+Launch the application with the following command:
 
-```
+```sh
 python app.py
 ```
 
+## Usage
+Once the application is launched, it will create a file named output.csv. This file will contain the enriched CSV data, including the geometries of the Local Administrative Units (LAUs).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or feedback, please contact  Nicolò Pratelli at [nicolo.pratelli@isti.cnr.it].
