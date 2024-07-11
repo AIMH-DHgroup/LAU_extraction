@@ -102,7 +102,7 @@ python app.py
 Once the application is launched, it will create a file named output.csv. This file will contain the enriched CSV data, including the geometries of the Local Administrative Units (LAUs).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or feedback, please contact  Nicolò Pratelli at [nicolo.pratelli@isti.cnr.it].
