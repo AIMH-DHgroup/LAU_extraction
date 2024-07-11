@@ -49,13 +49,6 @@ Download the repository and unzip it into a folder, or clone the repository usin
 git clone <repository_url>
 ```
 
-## Dependencies
-The `requirements.txt` file lists all Python libraries that `app.py` depends on. Install them using:
-
-```
-pip install -r requirements.txt
-```
-
 ## Create a Virtual Environment
 Create a virtual environment using:
 
@@ -74,6 +67,13 @@ Activate the virtual environment:
   ```
   source <name>/bin/activate
   ```
+
+## Dependencies
+The `requirements.txt` file lists all Python libraries that `app.py` depends on. Install them using:
+
+```
+pip install -r requirements.txt
+```
 
 ## Run
 Launch the application using:
