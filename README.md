@@ -105,4 +105,4 @@ Once the application is launched, it will create a file named output.csv. This f
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact  Nicolò Pratelli at [nicolo.pratelli@isti.cnr.it].
+For any questions or feedback, please contact  Nicolò Pratelli at [nicolo.pratelli@isti.cnr.it](nicolo.pratelli@isti.cnr.it).
